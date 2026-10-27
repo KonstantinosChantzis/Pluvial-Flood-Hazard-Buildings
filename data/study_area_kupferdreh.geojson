@@ -1,0 +1,44 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Study area Essen-Kupferdreh",
+    "crs_source": "EPSG:25832",
+    "xmin": 366000,
+    "ymin": 5694000,
+    "xmax": 368000,
+    "ymax": 5696000,
+    "dgm1_tiles": "dgm1_32_366_5694, dgm1_32_367_5694, dgm1_32_366_5695, dgm1_32_367_5695"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.074432,
+       51.381409
+      ],
+      [
+       7.103155,
+       51.381878
+      ],
+      [
+       7.102411,
+       51.399852
+      ],
+      [
+       7.073677,
+       51.399383
+      ],
+      [
+       7.074432,
+       51.381409
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

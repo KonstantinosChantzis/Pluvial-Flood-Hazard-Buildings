@@ -1,0 +1,2865 @@
+OBJECTID,building,street,housenumber,area_m2,max_pond_depth_m,max_strahler,risk_class
+1,yes,Frauenstein,119,96.7,0.07,0,0
+2,apartments,Kupferdreher Straße,156,150.3,0.0,0,0
+3,apartments,Bahnstraße,8,120.0,0.0,1,1
+4,apartments,Byfanger Straße,3,108.2,0.0,0,0
+5,apartments,Hofstraße,6,122.7,0.0,0,0
+6,yes,Colsmanstraße,7,200.9,1.06,0,3
+7,apartments,,,371.3,0.02,0,0
+8,apartments,Kupferdreher Straße,165,192.6,0.01,5,3
+9,hospital,Heidbergweg,22-24,2522.0,0.48,2,2
+10,apartments,Narjesstraße,12,244.0,0.03,0,0
+11,public,Benderstraße,15,167.7,0.0,1,1
+12,kindergarten,Benderstraße,14,490.7,0.08,1,1
+13,apartments,Benderstraße,12,168.1,0.0,0,0
+14,garage,Dixbäume,78,62.6,0.0,0,0
+15,house,Dixbäume,75,118.2,0.0,1,1
+16,house,Dixbäume,81,149.5,0.01,0,0
+17,kindergarten,Anstockstraße,11,388.7,0.0,0,0
+18,sports_centre,,,457.4,0.08,0,0
+19,museum,Kupferdreher Straße,141-143,447.2,0.03,0,0
+20,sports_centre,Schwermannstraße,45,1142.7,0.05,0,0
+21,apartments,Byfanger Straße,34,177.8,0.0,5,3
+22,apartments,Dixbäume,83,137.7,0.0,2,1
+23,church,Dilldorfer Straße,34,837.6,0.01,0,0
+24,yes,Eisenhammerweg,25a,72.6,0.0,1,1
+25,office,Deilbachtal,173,2625.9,,0,0
+26,yes,Kampmannbrücke,37,62.8,0.2,0,1
+27,parking,,,2328.4,0.06,1,1
+28,yes,Frauenstein,121,113.8,0.02,0,0
+29,commercial,Kupferdreher Straße,137,503.2,0.2,2,1
+30,yes,Kupferdreher Straße,41,1294.6,0.04,0,0
+31,yes,Kupferdreher Straße,43,1381.6,0.24,2,1
+32,yes,,,265.8,0.0,0,0
+33,apartments,Byfanger Straße,8,236.1,0.0,0,0
+34,yes,Hardenbergufer,,48.2,0.0,1,1
+35,school,Prinz-Friedrich-Straße,28a,1047.2,0.01,0,0
+36,yes,Prinz-Friedrich-Straße,34,1332.8,0.02,1,1
+37,industrial,Prinz-Friedrich-Straße,18,1085.1,0.07,0,0
+38,industrial,Prinz-Friedrich-Straße,10,537.1,0.0,0,0
+39,yes,Prinz-Friedrich-Straße,26,450.9,0.25,1,1
+40,yes,Prinz-Friedrich-Straße,24b,109.8,0.26,0,1
+41,industrial,Prinz-Friedrich-Straße,10,296.1,0.01,0,0
+42,industrial,,,525.4,0.29,0,1
+43,apartments,Prinz-Friedrich-Straße,14,251.7,0.19,0,1
+44,industrial,Prinz-Friedrich-Straße,24a,156.0,0.0,0,0
+45,industrial,,,147.2,0.04,0,0
+46,yes,Prinz-Friedrich-Straße,3,1074.9,2.66,5,3
+47,yes,,,479.7,1.33,2,3
+48,commercial,Hinsbecker Löh,46,117.6,0.06,0,0
+49,commercial,Hinsbecker Löh,44,397.9,0.07,1,1
+50,yes,Hinsbecker Löh,32,500.6,0.03,1,1
+51,yes,Hinsbecker Löh,30,324.0,1.36,0,3
+52,yes,Hinsbecker Löh,28,472.3,1.61,0,3
+53,yes,,,380.8,0.8,1,3
+54,yes,Hinsbecker Löh,25,231.6,0.84,1,3
+55,yes,Hinsbecker Löh,22,162.9,0.45,0,2
+56,yes,Hinsbecker Löh,23,226.2,0.94,1,3
+57,yes,Hinsbecker Löh,21,218.7,1.0,1,3
+58,supermarket,Hinsbecker Löh,16,399.7,0.66,0,3
+59,retail,Hinsbecker Löh,16,1373.4,0.2,3,2
+60,yes,Hinsbecker Löh,14,292.6,0.95,3,3
+61,retail,Kupferdreher Straße,128,1067.3,0.02,0,0
+62,yes,Hinsbecker Löh,12,293.1,0.26,3,2
+63,industrial,Hinsbecker Löh,10,19339.5,1.98,5,3
+64,sports_centre,Nierenhofer Straße,14,292.6,0.01,0,0
+65,yes,Hardenbergufer,700,270.8,0.07,0,0
+66,apartments,Dilldorfer Allee,23,370.3,0.01,0,0
+67,apartments,Dilldorfer Allee,20,355.0,0.11,0,1
+68,apartments,Dilldorfer Allee,22,307.1,0.06,0,0
+69,semidetached_house,Tholshof,12,67.2,0.07,0,0
+70,apartments,Dilldorfer Allee,24,308.7,0.18,0,1
+71,yes,Phönixberg,35,73.8,0.0,0,0
+72,apartments,Ruhrlandbogen,5,235.5,0.02,0,0
+73,apartments,Ruhrlandbogen,2,387.8,0.05,0,0
+74,apartments,Dilldorfer Allee,16,354.4,0.04,0,0
+75,yes,Ruhrlandbogen,27,208.6,0.0,0,0
+76,yes,Phönixberg,26,246.8,0.02,0,0
+77,apartments,Dilldorfer Allee,12,404.8,0.08,0,0
+78,semidetached_house,Ruhrlandbogen,9,73.5,0.09,0,0
+79,apartments,Phönixberg,2,233.6,0.03,1,1
+80,yes,Ruhrlandbogen,26,235.0,0.07,0,0
+81,apartments,Dilldorfer Allee,21,380.3,0.26,0,1
+82,yes,Ruhrlandbogen,29,207.8,0.03,0,0
+83,apartments,Dilldorfer Allee,18,348.8,0.01,0,0
+84,apartments,Byfanger Straße,64,170.1,0.01,1,1
+85,apartments,Niederweniger Straße,9,117.3,0.0,0,0
+86,yes,Heidbergweg,37,95.8,0.02,0,0
+87,apartments,Niederweniger Straße,11,128.2,0.08,1,1
+88,yes,Heidbergweg,14a,163.6,0.01,0,0
+89,apartments,Narjesstraße,3,100.5,0.03,1,1
+90,apartments,Niederweniger Straße,10,225.6,0.0,0,0
+91,commercial,Kupferdreher Straße,135,324.9,0.0,1,1
+92,apartments,Zementstraße,57,149.5,0.0,0,0
+93,yes,Dixbäume,5,140.9,0.0,0,0
+94,apartments,Schwermannstraße,62,180.5,0.02,1,1
+95,apartments,Reulsbergweg,2,121.9,0.0,0,0
+96,detached,Byfanger Straße,85,85.7,0.06,0,0
+97,apartments,Sandstraße,16,114.4,0.0,0,0
+98,detached,Byfanger Straße,68a,159.8,0.0,1,1
+99,apartments,Dixbäume,16,269.4,0.05,0,0
+100,apartments,Zementstraße,53,126.5,0.0,0,0
+101,residential,Heidbergweg,14,298.9,1.61,1,3
+102,apartments,Byfanger Straße,83,124.6,0.28,1,1
+103,yes,Heidbergweg,20,144.7,0.05,0,0
+104,apartments,Byfanger Straße,66,189.2,0.07,0,0
+105,apartments,Sandstraße,34,237.1,0.0,0,0
+106,apartments,Zementstraße,55,136.2,0.0,0,0
+107,yes,Dixbäume,5b,187.3,0.04,1,1
+108,apartments,Narjesstraße,7,166.8,0.0,3,2
+109,residential,Dixbäume,5d,202.8,0.0,2,1
+110,yes,Heidbergweg,4,144.2,0.0,0,0
+111,yes,Dixbäume,5e,81.9,0.0,4,3
+112,apartments,Sandstraße,"30,32",308.5,0.0,0,0
+113,yes,Heidbergweg,2,120.1,0.03,3,2
+114,apartments,Narjesstraße,5,141.0,0.01,1,1
+115,apartments,Schwermannstraße,60,183.7,0.0,0,0
+116,yes,Heidbergweg,33,1959.3,1.26,2,3
+117,apartments,Dixbäume,29,127.3,0.06,0,0
+118,apartments,Reulsbergweg,7,122.6,0.0,0,0
+119,apartments,Dixbäume,3,125.4,0.0,2,1
+120,apartments,Kupferdreher Straße,87,189.5,0.07,1,1
+121,apartments,Reulsbergweg,"1b,3",272.8,0.0,1,1
+122,garage,,,49.7,0.0,0,0
+123,semidetached_house,Gillesweg,9,122.5,0.0,0,0
+124,apartments,Provesthöhe,8,75.1,0.02,1,1
+125,residential,Dixbäume,7b,139.9,0.0,1,1
+126,detached,Heidbergweg,43,179.2,0.04,2,1
+127,residential,Dixbäume,7c,102.8,0.3,2,2
+128,residential,Dixbäume,7,155.7,0.0,2,1
+129,detached,Dixbäume,19e,89.2,0.53,0,3
+130,yes,Heidbergweg,41,179.2,0.0,0,0
+131,residential,Dixbäume,7a,96.9,0.0,1,1
+132,detached,Heidbergweg,45,177.0,0.03,1,1
+133,apartments,Reulsbergweg,11b,159.5,0.0,3,2
+134,apartments,Provesthöhe,9,162.4,0.04,0,0
+135,apartments,Schwermannstraße,65,185.8,0.02,0,0
+136,apartments,Heidbergweg,47,114.1,0.0,1,1
+137,detached,Byfanger Straße,70,181.5,0.13,0,1
+138,detached,Dixbäume,19a,124.0,0.0,0,0
+139,detached,Dixbäume,19d,88.8,0.0,0,0
+140,detached,Byfanger Straße,87,115.6,0.0,0,0
+141,apartments,Reulsbergweg,9,139.6,0.24,0,1
+142,detached,Byfanger Straße,89,148.9,0.02,0,0
+143,detached,Dixbäume,19c,89.5,0.0,0,0
+144,apartments,Reulsbergweg,5,88.2,0.0,0,0
+145,apartments,Reulsbergweg,11,162.9,0.68,0,3
+146,apartments,Provesthöhe,11,161.6,0.04,0,0
+147,detached,Heidbergweg,30,142.9,0.0,0,0
+148,apartments,Provesthöhe,4,138.2,0.0,2,1
+149,apartments,Reulsbergweg,11a,140.6,0.0,0,0
+150,apartments,Provesthöhe,13,159.8,0.02,0,0
+151,detached,Heidbergweg,28,147.2,0.0,0,0
+152,apartments,Dixbäume,11,282.2,0.51,1,3
+153,detached,Dixbäume,19b,98.6,0.04,1,1
+154,apartments,Provesthöhe,14,111.5,0.0,0,0
+155,apartments,Dixbäume,13,133.3,1.03,0,3
+156,apartments,Sandstraße,3,192.6,0.04,0,0
+157,house,Byfanger Straße,57c,49.0,0.0,0,0
+158,house,Byfanger Straße,59c,55.3,0.0,0,0
+159,house,Byfanger Straße,57,49.0,0.0,0,0
+160,house,Byfanger Straße,73,52.8,0.0,0,0
+161,semidetached_house,Heidbergweg,5,82.4,0.0,0,0
+162,house,Byfanger Straße,65,43.3,0.0,0,0
+163,house,Byfanger Straße,57a,49.0,0.0,0,0
+164,semidetached_house,Byfanger Straße,55,81.6,0.0,0,0
+165,house,Byfanger Straße,75,52.7,0.03,0,0
+166,yes,Heidbergweg,8,169.5,0.16,1,1
+167,house,Byfanger Straße,59,55.3,0.0,0,0
+168,semidetached_house,Heidbergweg,1,97.8,0.0,0,0
+169,house,Byfanger Straße,67,43.4,0.0,0,0
+170,house,Byfanger Straße,69,52.7,0.0,0,0
+171,yes,Heidbergweg,6,169.5,0.15,1,1
+172,semidetached_house,Byfanger Straße,79,105.1,0.0,0,0
+173,semidetached_house,Heidbergweg,3,99.6,0.0,0,0
+174,apartments,Heidbergweg,12,156.5,0.01,0,0
+175,house,Byfanger Straße,61,43.4,0.0,0,0
+176,house,Byfanger Straße,71,52.7,0.0,0,0
+177,house,Byfanger Straße,59b,55.3,0.0,0,0
+178,apartments,Heidbergweg,10,156.4,0.01,0,0
+179,house,Byfanger Straße,63,43.4,0.0,0,0
+180,semidetached_house,Heidbergweg,7,82.8,0.28,0,1
+181,house,Byfanger Straße,59a,55.3,0.0,0,0
+182,house,Byfanger Straße,57b,49.0,0.0,0,0
+183,semidetached_house,Byfanger Straße,53,81.6,0.0,0,0
+184,semidetached_house,Byfanger Straße,77,102.2,0.02,0,0
+185,yes,Byfanger Straße,40,175.6,0.0,0,0
+186,yes,Byfanger Straße,38,141.2,0.0,5,3
+187,semidetached_house,Byfanger Straße,44,107.9,0.0,5,3
+188,yes,Byfanger Straße,42,108.3,0.0,5,3
+189,yes,Kupferdreher Straße,47,151.4,0.06,3,2
+190,yes,,,1215.3,0.23,0,1
+191,yes,,,297.0,1.12,0,3
+192,industrial,Prinz-Friedrich-Straße,22,116.4,0.09,0,0
+193,yes,Phönixhütte,11,135.2,1.27,2,3
+194,yes,,,294.6,1.38,2,3
+195,office,Prinz-Friedrich-Straße,30,334.4,0.18,0,1
+196,yes,Kampmannbrücke,3,101.6,0.0,0,0
+197,yes,Kampmannbrücke,29,71.6,0.02,0,0
+198,yes,,,335.9,0.0,3,2
+199,yes,Kampmannbrücke,33,165.2,0.32,0,2
+200,yes,Kampmannbrücke,31,166.8,0.01,0,0
+201,yes,Holsteinanger,34,114.7,0.03,0,0
+202,yes,Holsteinanger,24a,221.8,0.05,0,0
+203,yes,Holsteinanger,42,192.2,0.04,1,1
+204,yes,Holsteinanger,26,123.7,0.0,0,0
+205,yes,Holsteinanger,40,104.4,0.11,0,1
+206,yes,Holsteinanger,52,163.7,0.02,0,0
+207,apartments,Butenbergs Kamp,98,131.9,0.01,0,0
+208,yes,,,60.4,0.03,0,0
+209,apartments,Holsteinanger,20,132.1,0.09,0,0
+210,yes,,,67.4,,0,0
+211,yes,,,23.9,0.0,0,0
+212,yes,,,41.1,0.0,0,0
+213,yes,Schmiedekottenweg,19,166.0,0.04,0,0
+214,yes,Holsteinanger,56,337.1,0.06,0,0
+215,yes,Holsteinanger,81,391.6,0.1,0,0
+216,yes,,,433.4,0.05,1,1
+217,yes,Holsteinanger,60,217.3,,0,0
+218,yes,Wuppertaler Straße,597c,76.2,0.0,0,0
+219,yes,Stauseebogen,11,257.6,0.03,0,0
+220,yes,Holsteinanger,83,247.8,0.0,0,0
+221,yes,Wuppertaler Straße,597,114.7,0.0,0,0
+222,yes,Holsteinanger,58,251.4,0.05,0,0
+223,yes,,,55.7,0.03,0,0
+224,yes,Stauseebogen,23,206.6,0.06,0,0
+225,yes,Stauseebogen,31,140.3,0.0,0,0
+226,yes,Lelei,98,249.9,0.0,0,0
+227,apartments,Kupferdreher Straße,187,90.8,0.0,0,0
+228,apartments,Kupferdreher Straße,168,229.2,0.0,0,0
+229,garages,,,181.7,0.0,1,1
+230,apartments,Kupferdreher Straße,169,104.9,0.0,0,0
+231,apartments,,,98.1,0.0,0,0
+232,apartments,Bahnstraße,3,167.3,0.0,0,0
+233,yes,Colsmanstraße,3,139.0,0.0,0,0
+234,apartments,Kupferdreher Markt,1,127.4,0.02,1,1
+235,apartments,Bahnstraße,5,130.4,0.0,0,0
+236,yes,Colsmanstraße,2,130.8,0.55,0,3
+237,apartments,Kupferdreher Markt,5,342.0,0.0,0,0
+238,yes,Kupferdreher Straße,179,127.3,0.01,0,0
+239,apartments,Bahnstraße,2,126.9,0.0,0,0
+240,yes,Colsmanstraße,5,126.4,0.04,0,0
+241,apartments,Kupferdreher Markt,2,190.5,0.0,0,0
+242,apartments,Bahnstraße,7,195.0,0.28,0,1
+243,apartments,Kupferdreher Straße,178,195.6,0.0,0,0
+244,apartments,Hofstraße,8,200.2,0.0,0,0
+245,apartments,Kupferdreher Straße,163,164.8,0.0,0,0
+246,apartments,Kupferdreher Markt,7,188.6,0.0,0,0
+247,apartments,Kupferdreher Straße,161,161.0,0.0,1,1
+248,apartments,Kupferdreher Straße,182,138.7,0.0,0,0
+249,apartments,Bahnstraße,4,203.7,0.02,0,0
+250,apartments,Kupferdreher Straße,188,246.6,0.02,0,0
+251,apartments,Kupferdreher Straße,157,119.4,0.28,0,1
+252,apartments,Kupferdreher Straße,172a,161.6,0.0,0,0
+253,apartments,Kupferdreher Straße,146,177.5,0.0,0,0
+254,apartments,,,982.5,0.03,1,1
+255,apartments,Kupferdreher Straße,180,148.8,0.0,0,0
+256,apartments,Kupferdreher Straße,159,198.1,0.76,2,3
+257,apartments,Kupferdreher Straße,153,256.9,0.22,0,1
+258,apartments,Bahnstraße,11,236.3,0.1,0,0
+259,apartments,Kupferdreher Straße,186,195.2,0.0,0,0
+260,detached,Kupferdreher Straße,181,154.5,0.0,0,0
+261,retail,Kupferdreher Straße,151,543.4,0.0,1,1
+262,apartments,Kupferdreher Straße,173,163.4,0.0,2,1
+263,apartments,Kupferdreher Straße,158,186.0,0.0,0,0
+264,apartments,Kupferdreher Straße,150,172.8,0.0,0,0
+265,apartments,Bahnstraße,9,151.1,0.0,0,0
+266,apartments,Kupferdreher Straße,184,159.0,0.0,0,0
+267,yes,Hofstraße,9,77.3,0.18,1,1
+268,yes,Colsmanstraße,1,122.8,0.0,0,0
+269,apartments,Kupferdreher Straße,154,162.2,0.03,0,0
+270,yes,,,113.4,0.09,0,0
+271,apartments,Kupferdreher Straße,152,169.7,0.13,0,1
+272,apartments,Kupferdreher Straße,160,172.3,0.0,0,0
+273,mosque,Kupferdreher Straße,188a,292.5,0.0,0,0
+274,apartments,,,98.5,0.0,0,0
+275,apartments,Kupferdreher Straße,172,124.5,0.0,0,0
+276,apartments,Kupferdreher Straße,162,158.7,0.0,0,0
+277,apartments,Bahnstraße,1,103.6,0.0,0,0
+278,apartments,Kupferdreher Straße,170,172.2,0.06,0,0
+279,retail,Byfanger Straße,2,238.1,0.17,5,3
+280,apartments,Kupferdreher Markt,9,168.5,0.03,0,0
+281,yes,Kupferdreher Straße,171,146.1,0.0,5,3
+282,apartments,Kupferdreher Markt,6,155.1,0.0,0,0
+283,apartments,Kupferdreher Markt,3,287.3,0.0,0,0
+284,retail,Gasstraße,24,1100.8,0.84,1,3
+285,semidetached_house,Holsteinanger,24,70.8,0.0,0,0
+286,semidetached_house,Holsteinanger,22,68.7,0.0,0,0
+287,yes,Holsteinanger,48,81.2,0.0,0,0
+288,yes,Schmiedekottenweg,20,93.2,,0,0
+289,yes,Holsteinanger,54,174.0,0.03,0,0
+290,yes,Holsteinanger,46,122.4,0.0,0,0
+291,yes,Schmiedekottenweg,22,134.3,0.04,0,0
+292,yes,Holsteinanger,44,115.2,0.0,0,0
+293,yes,Holsteinanger,50,81.2,0.0,0,0
+294,yes,Düschenhofer Wald,85b,235.8,0.0,0,0
+295,yes,Nierenhofer Straße,5,302.4,0.0,1,1
+296,semidetached_house,Deilmannshof,11,151.0,0.05,1,1
+297,detached,Deilbachtal,215,182.9,0.0,0,0
+298,roof,,,260.8,0.0,0,0
+299,pavilion,Nierenhofer Straße,18,191.9,0.0,5,3
+300,yes,,,195.4,0.0,0,0
+301,shed,,,268.5,0.01,5,3
+302,construction,Nierenhofer Straße,18,210.4,0.0,5,3
+303,kindergarten,Nierenhofer Straße,16,120.2,0.0,0,0
+304,yes,,,500.4,0.01,0,0
+305,yes,Deilbachtal,199,2316.9,0.0,0,0
+306,detached,Singscheider Weg,5,91.9,,0,0
+307,yes,,,406.1,0.05,1,1
+308,yes,Nierenhofer Straße,3,181.2,0.11,0,1
+309,yes,Byfanger Straße,283,393.2,1.01,0,3
+310,yes,,,82.8,0.0,0,0
+311,yes,Phönixhütte,26,152.2,0.08,0,0
+312,yes,Phönixhütte,28,91.0,0.0,0,0
+313,yes,,,52.4,0.0,0,0
+314,school,Oslenderstraße,36,598.6,0.07,1,1
+315,yes,Grotehang,1,131.1,0.02,0,0
+316,yes,Grotehang,3,183.4,0.0,0,0
+317,yes,Grotestraße,2,102.0,0.0,0,0
+318,hospital,Schwermannstraße,6,527.4,0.0,0,0
+319,yes,Heidbergweg,18b,533.9,1.01,1,3
+320,apartments,Niederweniger Straße,16,110.4,0.0,0,0
+321,apartments,Niederweniger Straße,18,146.7,0.02,0,0
+322,yes,An den Friedhöfen,34a,137.1,0.0,0,0
+323,yes,An den Friedhöfen,39,66.5,0.82,0,3
+324,yes,An den Friedhöfen,37,88.9,0.0,0,0
+325,yes,An den Friedhöfen,28,86.0,0.03,0,0
+326,yes,An den Friedhöfen,47,88.7,0.0,0,0
+327,yes,An den Friedhöfen,26,115.4,0.0,0,0
+328,yes,An den Friedhöfen,45,98.4,0.0,0,0
+329,yes,An den Friedhöfen,30a,122.9,0.0,0,0
+330,yes,An den Friedhöfen,32,70.0,0.41,0,2
+331,yes,An den Friedhöfen,36a,132.6,0.0,0,0
+332,yes,An den Friedhöfen,38a,232.8,0.0,1,1
+333,yes,An den Friedhöfen,41,71.1,0.0,0,0
+334,yes,An den Friedhöfen,43,75.8,0.0,0,0
+335,yes,An den Friedhöfen,49,90.9,0.0,0,0
+336,yes,An den Friedhöfen,24,110.1,0.0,0,0
+337,yes,An den Friedhöfen,34,167.3,0.0,2,1
+338,yes,An den Friedhöfen,22,159.9,0.14,0,1
+339,yes,An den Friedhöfen,32a,119.3,0.0,0,0
+340,apartments,Niederweniger Straße,1,124.6,0.0,0,0
+341,yes,Grotestraße,10,114.1,0.0,0,0
+342,yes,Grotestraße,12,100.4,0.0,0,0
+343,apartments,Niederweniger Straße,2,121.4,0.0,0,0
+344,apartments,Niederweniger Straße,22,90.5,0.0,1,1
+345,yes,Grotestraße,4b,80.2,0.0,0,0
+346,apartments,Niederweniger Straße,4,114.4,0.07,4,3
+347,apartments,Byfanger Straße,48,122.7,0.0,5,3
+348,yes,Grotestraße,4a,260.8,0.0,3,2
+349,apartments,Niederweniger Straße,5,126.2,0.0,0,0
+350,apartments,Byfanger Straße,50,155.8,0.0,5,3
+351,yes,Grotestraße,6,142.1,0.0,0,0
+352,apartments,Niederweniger Straße,6,135.0,0.0,4,3
+353,yes,Byfanger Straße,72,184.9,0.0,1,1
+354,yes,Grotestraße,8,116.7,0.0,0,0
+355,apartments,Niederweniger Straße,8,111.8,0.0,1,1
+356,yes,Byfanger Straße,91,130.6,0.0,0,0
+357,yes,Gillesweg,15,88.8,0.0,1,1
+358,yes,Grotestraße,7,99.5,0.0,0,0
+359,yes,Grotestraße,5,243.2,0.0,0,0
+360,yes,Grotestraße,9,201.5,0.01,1,1
+361,apartments,Poststraße,1,277.5,0.0,0,0
+362,yes,Provesthöhe,5,76.4,0.0,0,0
+363,yes,Heidbergweg,18a,150.3,0.0,0,0
+364,kindergarten,Schwermannstraße,30,608.5,0.33,1,2
+365,yes,Colsmanstraße,5a,76.8,0.0,0,0
+366,yes,,,178.7,0.0,0,0
+367,hospital,,,315.1,0.29,0,1
+368,yes,Gillesweg,5,85.2,0.0,0,0
+369,apartments,Poststraße,2,279.7,0.12,0,1
+370,yes,Provesthöhe,3,222.4,0.0,0,0
+371,apartments,Dixbäume,21,187.7,0.0,0,0
+372,apartments,Dixbäume,23,119.0,0.0,0,0
+373,apartments,Dixbäume,25,132.4,0.0,1,1
+374,apartments,Dixbäume,27,132.4,0.08,1,1
+375,yes,Deilbachufer,10,190.3,0.03,0,0
+376,yes,Deilbachufer,2a,102.5,0.82,0,3
+377,yes,Deilbachufer,6,149.0,0.17,0,1
+378,apartments,Deilbachufer,14,298.9,0.01,0,0
+379,yes,Deilbachufer,26,174.4,0.02,0,0
+380,ruins,Frauenstein,123,157.5,0.51,0,3
+381,yes,Deilbachufer,4,165.4,0.0,0,0
+382,ruins,Frauenstein,127,132.0,0.03,0,0
+383,apartments,,,164.7,0.03,0,0
+384,ruins,Frauenstein,125,145.6,0.03,0,0
+385,yes,Deilbachufer,28,123.9,0.0,0,0
+386,yes,Deilbachufer,2,117.3,0.69,0,3
+387,yes,,,56.0,0.48,0,2
+388,ruins,Frauenstein,131,109.2,0.06,0,0
+389,ruins,Frauenstein,135,239.3,0.06,0,0
+390,ruins,Frauenstein,129,234.0,0.29,0,1
+391,yes,Dilldorfer Straße,5,180.0,0.01,4,3
+392,apartments,Deilbachtal,4,246.7,0.07,0,0
+393,apartments,Dilldorfer Straße,11,236.4,0.0,0,0
+394,yes,Möllneyer Ufer,19,226.9,1.05,0,3
+395,yes,Kupferdreher Straße,294,115.2,0.0,0,0
+396,yes,Kupferdreher Straße,284,163.3,0.08,0,0
+397,yes,Kupferdreher Straße,271,163.1,0.0,4,3
+398,apartments,Kupferdreher Straße,276,243.4,0.03,0,0
+399,yes,Kupferdreher Straße,268,163.3,0.01,0,0
+400,yes,Kupferdreher Straße,292,119.5,0.13,0,1
+401,yes,Möllneyer Ufer,23,204.2,0.08,0,0
+402,yes,Kupferdreher Straße,282,237.2,0.98,0,3
+403,yes,Kupferdreher Straße,286,201.8,0.16,0,1
+404,yes,Reulsbergweg,84,657.7,0.16,2,1
+405,yes,,,826.3,0.21,3,2
+406,yes,Kupferdreher Straße,269a,241.0,0.07,1,1
+407,yes,Möllneys Nocken,26,144.6,0.0,0,0
+408,yes,,,583.1,0.19,2,1
+409,yes,,,749.5,0.17,3,2
+410,yes,Kupferdreher Straße,253,87.6,0.0,3,2
+411,apartments,Zementstraße,52,146.8,0.0,1,1
+412,detached,Dixbäume,49,100.6,0.0,1,1
+413,yes,Zementstraße,50a,45.7,0.0,0,0
+414,apartments,Narjesstraße,11,104.8,0.0,1,1
+415,apartments,Zementstraße,23,223.8,0.0,0,0
+416,apartments,Narjesstraße,13,159.8,0.0,0,0
+417,apartments,Zementstraße,10,187.9,0.0,0,0
+418,apartments,Heidbergweg,38,199.2,0.1,0,1
+419,apartments,Heidbergweg,49,120.9,0.03,0,0
+420,apartments,Heidbergweg,36,261.7,0.0,0,0
+421,semidetached_house,Dixbäume,45,124.3,0.02,0,0
+422,house,Dixbäume,43,93.3,0.0,1,1
+423,apartments,Heidbergweg,32,134.5,0.0,0,0
+424,detached,Dixbäume,55,94.2,0.0,1,1
+425,yes,Narjesstraße,8,80.7,0.04,0,0
+426,yes,Heidbergweg,34,120.1,0.0,0,0
+427,house,Dixbäume,61b,68.6,0.0,0,0
+428,semidetached_house,Dixbäume,47,123.1,0.0,1,1
+429,semidetached_house,Dixbäume,56,97.4,0.07,0,0
+430,detached,Dixbäume,67,144.6,0.0,1,1
+431,detached,Dixbäume,77,148.6,0.0,2,1
+432,detached,Möllneys Nocken,9,231.7,0.0,2,1
+433,detached,Möllneys Nocken,11,163.4,0.0,0,0
+434,detached,Möllneys Nocken,7,137.6,0.09,0,0
+435,yes,Dixbäume,77a,107.5,0.0,1,1
+436,yes,Möllneys Nocken,13,154.8,0.0,0,0
+437,yes,Nierenhofer Straße,1,117.9,0.14,2,1
+438,yes,Rathgeberhof,16,63.5,0.0,0,0
+439,yes,Rathgeberhof,32,61.3,0.0,0,0
+440,yes,Rathgeberhof,2,63.1,0.02,1,1
+441,yes,Rathgeberhof,8,61.1,0.0,1,1
+442,yes,Rathgeberhof,24,63.1,0.0,0,0
+443,yes,Nierenhofer Straße,4,113.0,0.0,0,0
+444,yes,Rathgeberhof,34,62.4,0.0,1,1
+445,yes,Rathgeberhof,28,64.4,0.0,0,0
+446,yes,Rathgeberhof,22,65.5,0.0,0,0
+447,yes,Rathgeberhof,26,62.4,0.0,0,0
+448,yes,Rathgeberhof,18,60.5,0.0,0,0
+449,yes,Rathgeberhof,30,62.7,0.0,0,0
+450,yes,Rathgeberhof,20,64.1,0.0,0,0
+451,yes,Rathgeberhof,10,62.2,0.0,0,0
+452,yes,Rathgeberhof,4,64.5,0.0,0,0
+453,yes,Rathgeberhof,36,63.6,0.07,1,1
+454,yes,Rathgeberhof,9,93.6,0.0,0,0
+455,yes,Rathgeberhof,6,64.7,0.02,0,0
+456,yes,Rathgeberhof,12,66.0,0.0,0,0
+457,yes,Rathgeberhof,14,63.7,0.0,0,0
+458,yes,Rathgeberhof,42,62.7,0.0,0,0
+459,yes,Rathgeberhof,7,274.1,0.01,2,1
+460,yes,Rathgeberhof,38,65.1,0.0,0,0
+461,yes,Rathgeberhof,40,62.2,0.0,0,0
+462,chapel,,,68.3,0.0,2,1
+463,yes,Prinz-Friedrich-Platz,1,646.7,0.0,0,0
+464,church,Dixbäume,85a,441.7,0.03,0,0
+465,public,Dixbäume,87c,77.5,0.0,1,1
+466,community_centre,Dixbäume,87a,158.6,0.0,1,1
+467,apartments,Kupferdreher Straße,195,139.2,0.1,2,1
+468,apartments,Kupferdreher Straße,197,138.8,0.2,2,1
+469,apartments,Kupferdreher Straße,199,175.9,0.0,2,1
+470,apartments,Kupferdreher Straße,201,112.1,0.0,0,0
+471,apartments,Kupferdreher Straße,203,124.1,0.01,0,0
+472,yes,Kampmannbrücke,5,92.7,0.0,0,0
+473,yes,Kampmannbrücke,,152.1,0.0,1,1
+474,public,Prinz-Friedrich-Platz,2A,2856.9,0.05,1,1
+475,yes,Kampmannbrücke,1,436.5,0.01,1,1
+476,apartments,Dixbäume,80,218.9,0.0,1,1
+477,commercial,Dilldorfer Straße,32a,17.5,0.0,0,0
+478,yes,Prinz-Wilhelm-Damm,26,105.4,0.0,1,1
+479,apartments,Prinz-Wilhelm-Damm,6,139.9,0.0,0,0
+480,yes,Prinz-Wilhelm-Damm,30,53.7,0.04,0,0
+481,yes,Prinz-Wilhelm-Damm,15,131.0,0.09,2,1
+482,yes,,,53.8,0.0,0,0
+483,yes,Prinz-Wilhelm-Damm,23,126.1,0.0,5,3
+484,yes,Prinz-Wilhelm-Damm,17,97.8,0.0,0,0
+485,apartments,Dixbäume,91,118.2,0.0,2,1
+486,yes,,,11.7,0.0,0,0
+487,apartments,Prinz-Wilhelm-Damm,8,103.9,0.0,0,0
+488,yes,Prinz-Wilhelm-Damm,29,89.3,0.0,0,0
+489,yes,Kampmannbrücke,9,58.0,0.0,0,0
+490,yes,Prinz-Wilhelm-Damm,24,126.1,0.29,5,3
+491,yes,Prinz-Wilhelm-Damm,19,122.9,0.18,1,1
+492,yes,Prinz-Wilhelm-Damm,13,123.6,0.11,1,1
+493,yes,Prinz-Wilhelm-Damm,10,111.5,0.0,0,0
+494,yes,,,54.6,0.02,0,0
+495,yes,Prinz-Wilhelm-Damm,22,132.2,0.0,0,0
+496,yes,Prinz-Wilhelm-Damm,21,132.2,0.0,0,0
+497,yes,Prinz-Wilhelm-Damm,14,109.4,0.0,0,0
+498,yes,Prinz-Wilhelm-Damm,25,105.9,0.0,1,1
+499,yes,,,69.5,0.01,0,0
+500,yes,,,29.7,0.0,0,0
+501,apartments,Dixbäume,89,98.0,0.05,3,2
+502,yes,Kupferdreher Straße,198a,56.7,0.02,0,0
+503,yes,Kupferdreher Straße,198b,54.9,0.01,0,0
+504,yes,Kupferdreher Straße,198c,54.5,0.0,0,0
+505,yes,Kupferdreher Straße,198d,55.4,0.0,0,0
+506,apartments,Kupferdreher Straße,202,296.2,0.0,0,0
+507,apartments,Kupferdreher Straße,204,243.0,0.0,0,0
+508,yes,Kupferdreher Straße,204a,40.9,0.0,0,0
+509,apartments,Kupferdreher Straße,206,189.2,0.0,0,0
+510,apartments,Kupferdreher Straße,210,124.3,0.0,0,0
+511,apartments,Kupferdreher Straße,212,124.3,0.0,0,0
+512,apartments,Kupferdreher Straße,214,128.0,0.0,0,0
+513,yes,,,275.7,0.01,0,0
+514,apartments,Kupferdreher Straße,246,216.5,0.48,4,3
+515,residential,,,584.3,0.31,3,2
+516,yes,,,43.7,0.11,5,3
+517,apartments,Dilldorfer Straße,32,139.4,0.0,0,0
+518,apartments,Kupferdreher Straße,227,126.3,0.0,0,0
+519,apartments,Kupferdreher Straße,218,228.7,0.0,0,0
+520,yes,Kupferdreher Straße,266,189.1,0.22,1,1
+521,apartments,Kupferdreher Straße,242,332.1,0.03,0,0
+522,yes,Kupferdreher Straße,255,178.1,0.02,1,1
+523,apartments,Kupferdreher Straße,231,91.5,0.0,0,0
+524,apartments,Möllneyer Ufer,5,176.5,1.06,0,3
+525,garages,,,139.0,0.0,5,3
+526,yes,Möllneyer Ufer,14,367.6,0.01,0,0
+527,apartments,Dilldorfer Straße,16,230.9,1.42,2,3
+528,apartments,Deilbachbrücke,8,234.8,0.0,0,0
+529,apartments,Kupferdreher Straße,250,130.3,0.1,4,3
+530,retail,,,223.3,0.0,0,0
+531,apartments,Dilldorfer Straße,30,143.6,0.05,0,0
+532,apartments,Dilldorfer Straße,8,72.7,0.0,1,1
+533,yes,Deilbachbrücke,5,176.1,0.95,0,3
+534,yes,Kupferdreher Straße,257,178.0,0.04,0,0
+535,apartments,Dilldorfer Straße,28,140.9,0.0,0,0
+536,apartments,Dilldorfer Straße,24,119.0,0.0,0,0
+537,apartments,Kupferdreher Straße,229,82.1,0.0,0,0
+538,yes,Deilbachbrücke,2,199.9,0.13,0,1
+539,apartments,Möllneyer Ufer,7,114.3,0.52,0,3
+540,garages,,,199.0,0.04,5,3
+541,yes,Kupferdreher Straße,254,112.7,0.09,0,0
+542,apartments,Asbachtal,18,241.9,0.0,0,0
+543,apartments,Dilldorfer Straße,10,180.5,0.0,0,0
+544,yes,Möllneyer Ufer,17,274.0,0.86,0,3
+545,yes,Möllneyer Ufer,9,264.8,0.3,0,1
+546,yes,Kupferdreher Straße,255a,178.1,0.04,1,1
+547,apartments,Kupferdreher Straße,235,145.5,0.11,2,1
+548,apartments,Dilldorfer Straße,14,124.9,0.06,0,0
+549,apartments,Kupferdreher Straße,217,140.3,0.0,0,0
+550,apartments,Dilldorfer Straße,21,271.8,0.02,1,1
+551,apartments,Asbachtal,20,253.6,0.0,0,0
+552,apartments,Dilldorfer Straße,22a,147.9,0.0,0,0
+553,yes,Kupferdreher Straße,256,193.0,0.58,0,3
+554,apartments,Möllneyer Ufer,1,88.2,0.32,0,2
+555,yes,Kupferdreher Straße,259,109.3,0.0,0,0
+556,retail,Deilbachtal,1,1005.5,0.77,1,3
+557,yes,Kupferdreher Straße,243,117.8,0.0,0,0
+558,apartments,Kupferdreher Straße,260,322.4,0.09,3,2
+559,apartments,Dilldorfer Straße,22,122.5,0.0,0,0
+560,yes,Kupferdreher Straße,252,117.6,0.02,0,0
+561,yes,Kupferdreher Straße,251,233.2,0.0,3,2
+562,yes,Kupferdreher Straße,263,186.8,0.01,4,3
+563,yes,Kupferdreher Straße,265,186.9,0.02,4,3
+564,yes,Kupferdreher Straße,270,148.3,0.28,0,1
+565,yes,Kupferdreher Straße,271a,70.7,0.0,0,0
+566,yes,Kupferdreher Straße,272,148.2,0.03,0,0
+567,yes,Kupferdreher Straße,273,90.8,0.0,0,0
+568,yes,Kupferdreher Straße,275,90.9,0.0,0,0
+569,yes,Kupferdreher Straße,277,122.7,0.01,0,0
+570,yes,Kupferdreher Straße,279,135.9,0.02,0,0
+571,yes,Kupferdreher Straße,281,98.6,0.0,0,0
+572,yes,Kupferdreher Straße,283,117.0,0.0,4,3
+573,yes,Kupferdreher Straße,285,132.3,0.33,4,3
+574,yes,Kupferdreher Straße,288,123.0,0.07,0,0
+575,yes,Kupferdreher Straße,289a,100.8,0.04,1,1
+576,yes,Kupferdreher Straße,290,123.0,0.0,0,0
+577,yes,,,181.2,0.08,0,0
+578,yes,,,168.8,0.0,0,0
+579,yes,,,163.4,0.1,0,1
+580,yes,,,90.0,0.0,0,0
+581,yes,,,228.4,0.01,0,0
+582,yes,,,272.4,0.0,0,0
+583,apartments,Byfanger Straße,16,155.0,0.0,5,3
+584,yes,,,157.6,0.0,0,0
+585,school,,,202.6,0.03,0,0
+586,yes,Byfanger Straße,18,109.6,0.0,5,3
+587,apartments,Byfanger Straße,10,143.0,0.0,5,3
+588,apartments,Byfanger Straße,12,210.3,0.0,5,3
+589,apartments,Benderstraße,1,165.4,0.0,1,1
+590,apartments,Kupferdreher Straße,190,229.2,0.04,0,0
+591,apartments,Byfanger Straße,14,133.3,0.0,5,3
+592,apartments,,,569.2,0.0,2,1
+593,yes,,,249.3,0.0,0,0
+594,apartments,Kupferdreher Straße,176,198.2,0.0,0,0
+595,school,Byfanger Straße,20,765.6,0.03,0,0
+596,industrial,,,87.2,0.19,0,1
+597,yes,Kupferdreher Straße,136,123.1,0.06,0,0
+598,apartments,Kupferdreher Straße,108,158.8,0.0,0,0
+599,apartments,Kupferdreher Straße,106,111.3,0.13,1,1
+600,apartments,Kupferdreher Straße,110,140.7,0.0,0,0
+601,apartments,Kupferdreher Straße,134,116.9,0.0,0,0
+602,apartments,Kupferdreher Straße,138,206.8,0.0,0,0
+603,apartments,Kupferdreher Straße,114,91.9,0.62,0,3
+604,apartments,Kupferdreher Straße,130,191.2,0.06,0,0
+605,industrial,Kupferdreher Straße,114,462.9,0.2,0,1
+606,apartments,Kupferdreher Straße,132,267.1,0.11,0,1
+607,yes,,,112.7,0.92,0,3
+608,apartments,Kupferdreher Straße,104,79.2,1.33,1,3
+609,apartments,Kupferdreher Straße,112,186.9,0.05,0,0
+610,apartments,Kupferdreher Straße,114,214.1,0.7,0,3
+611,apartments,Kupferdreher Straße,116,448.5,0.03,0,0
+612,yes,Reulsbergweg,134,115.1,0.0,0,0
+613,yes,Reulsbergweg,140,827.8,0.06,2,1
+614,yes,,,22.7,0.0,0,0
+615,yes,,,43.5,0.0,0,0
+616,yes,,,27.7,0.02,0,0
+617,yes,,,30.8,0.0,1,1
+618,yes,,,39.8,0.03,1,1
+619,yes,,,15.1,0.0,0,0
+620,yes,,,85.9,0.0,0,0
+621,yes,,,12.1,0.0,0,0
+622,yes,,,25.3,0.04,0,0
+623,yes,,,34.4,0.0,0,0
+624,yes,Reulsbergweg,130,94.7,0.0,0,0
+625,yes,Reulsbergweg,126,132.8,0.0,2,1
+626,yes,,,186.7,0.0,1,1
+627,yes,Reulsbergweg,124,77.9,0.0,0,0
+628,yes,Grotestraße,2a,72.9,0.0,0,0
+629,yes,Grotestraße,2b,68.7,0.0,3,2
+630,yes,Byfanger Straße,6,253.1,0.09,0,0
+631,apartments,Niederweniger Straße,7,84.7,0.06,0,0
+632,yes,Kampmannbrücke,36,309.4,0.17,0,1
+633,apartments,Kupferdreher Straße,248,127.8,0.04,0,0
+634,yes,,,214.8,0.11,0,1
+635,yes,,,43.8,0.04,0,0
+636,yes,Prinz-Friedrich-Straße,1,167.4,0.03,1,1
+637,apartments,Kupferdreher Straße,103,146.9,0.12,1,1
+638,apartments,Kupferdreher Straße,105,139.0,0.0,0,0
+639,yes,Kupferdreher Straße,196,102.2,0.0,1,1
+640,yes,,,110.2,1.33,0,3
+641,apartments,Colsmanstraße,14,154.1,0.06,1,1
+642,yes,Kupferdreher Straße,196b,158.3,0.0,1,1
+643,yes,,,171.2,0.06,0,0
+644,yes,Kupferdreher Straße,107,55.9,0.0,0,0
+645,yes,Poststraße,5,149.2,0.97,0,3
+646,apartments,Kupferdreher Straße,142,152.3,0.0,0,0
+647,apartments,Kupferdreher Straße,144,223.4,0.01,0,0
+648,apartments,Colsmanstraße,16,163.9,1.17,1,3
+649,apartments,Colsmanstraße,19,183.6,1.15,5,3
+650,apartments,Colsmanstraße,20,106.0,1.37,0,3
+651,office,Prinz-Friedrich-Straße,28c,258.9,0.01,0,0
+652,apartments,Poststraße,7,140.5,0.72,0,3
+653,yes,Prinz-Friedrich-Straße,28b,103.7,0.01,0,0
+654,yes,Kupferdreher Straße,196a,407.0,1.31,1,3
+655,retail,Kupferdreher Straße,202,219.1,0.0,0,0
+656,apartments,Oslenderstraße,22,277.3,0.06,0,0
+657,apartments,Oslenderstraße,18,260.1,0.08,0,0
+658,yes,Oslenderstraße,14,148.3,0.0,0,0
+659,yes,Oslenderstraße,12,140.5,0.0,0,0
+660,apartments,Oslenderstraße,16,271.4,0.15,0,1
+661,yes,Phönixhütte,9,130.5,1.38,0,3
+662,school,Schwermannstraße,9,574.9,0.05,1,1
+663,apartments,Kupferdreher Straße,238,130.9,0.0,0,0
+664,yes,,,42.3,0.01,0,0
+665,apartments,Kupferdreher Straße,234,228.8,0.01,5,3
+666,apartments,Kupferdreher Straße,236,247.0,0.0,0,0
+667,chapel,,,65.9,0.0,0,0
+668,house,Eisenhammerweg,1,62.3,0.0,0,0
+669,semidetached_house,Eisenhammerweg,11,68.0,0.0,0,0
+670,semidetached_house,Eisenhammerweg,13,65.8,0.01,0,0
+671,semidetached_house,Eisenhammerweg,15,63.7,0.02,0,0
+672,semidetached_house,Eisenhammerweg,17,70.1,0.02,0,0
+673,house,Eisenhammerweg,3,84.7,0.0,0,0
+674,house,Eisenhammerweg,5,91.6,0.03,0,0
+675,semidetached_house,Eisenhammerweg,7,78.3,0.02,0,0
+676,semidetached_house,Eisenhammerweg,9,65.6,0.07,0,0
+677,detached,Reulsbergweg,11d,221.8,0.0,1,1
+678,yes,Schliepersberg,113,270.8,0.0,0,0
+679,yes,Reulsbergweg,11c,77.0,0.0,3,2
+680,yes,Schliepersberg,115,125.8,0.0,0,0
+681,yes,Schliepersberg,117,71.4,0.0,1,1
+682,house,Schliepersberg,114,100.0,0.0,0,0
+683,detached,Reulsbergweg,29,420.3,0.39,1,2
+684,yes,Reulsbergweg,27,142.5,0.01,0,0
+685,yes,Reulsbergweg,27a,137.9,0.02,0,0
+686,yes,Reulsbergweg,24,211.9,0.0,0,0
+687,yes,Reulsbergweg,32a,83.5,0.0,0,0
+688,yes,Reulsbergweg,26,140.4,0.0,2,1
+689,yes,Reulsbergweg,12,148.4,0.0,0,0
+690,yes,Reulsbergweg,"20a,20b,20c",165.2,0.0,0,0
+691,yes,Reulsbergweg,"22a,22b,22c",153.0,0.0,0,0
+692,yes,Reulsbergweg,10,148.2,0.0,0,0
+693,detached,Möllneys Nocken,"33,33a",265.3,0.04,0,0
+694,detached,Möllneys Nocken,29,126.3,0.0,0,0
+695,detached,Möllneys Nocken,31,160.7,0.0,0,0
+696,yes,Reulsbergweg,30,126.5,0.0,1,1
+697,yes,Reulsbergweg,28,150.9,0.0,0,0
+698,yes,Reulsbergweg,8,99.4,0.0,0,0
+699,yes,Reulsbergweg,17d,63.4,0.0,0,0
+700,yes,Reulsbergweg,19,82.0,0.0,1,1
+701,yes,Reulsbergweg,17,158.0,0.03,1,1
+702,yes,Reulsbergweg,13a,242.1,0.0,0,0
+703,yes,Reulsbergweg,15,118.1,0.0,1,1
+704,yes,Reulsbergweg,13,199.2,0.31,0,2
+705,yes,Reulsbergweg,25a,244.8,0.05,1,1
+706,yes,Reulsbergweg,23,193.4,0.0,0,0
+707,yes,Reulsbergweg,21a,120.7,0.09,0,0
+708,detached,Reulsbergweg,46,137.7,0.0,1,1
+709,detached,Reulsbergweg,88,105.1,0.0,0,0
+710,yes,Reulsbergweg,100,204.3,0.0,0,0
+711,yes,Reulsbergweg,"80,82",191.5,0.0,0,0
+712,yes,Reulsbergweg,60,129.2,0.0,0,0
+713,detached,,,83.3,0.0,0,0
+714,semidetached_house,Reulsbergweg,41,187.6,0.22,0,1
+715,detached,Reulsbergweg,49,125.8,0.04,0,0
+716,apartments,Reulsbergweg,51,93.5,0.04,0,0
+717,yes,Reulsbergweg,55,91.7,0.02,1,1
+718,yes,Reulsbergweg,"59a,59b",179.8,0.04,0,0
+719,yes,Wohlgemuthweg,4,192.5,,0,0
+720,yes,Wohlgemuthweg,6,198.4,0.0,0,0
+721,yes,Kupferdreher Straße,28,203.2,0.05,0,0
+722,yes,Kupferdreher Straße,31,249.5,0.0,2,1
+723,yes,Kupferdreher Straße,30,128.6,3.29,1,3
+724,apartments,Kupferdreher Straße,51,305.2,0.0,0,0
+725,yes,Kupferdreher Straße,42,158.8,0.0,2,1
+726,yes,Kupferdreher Straße,50,145.1,0.03,0,0
+727,residential,,,180.1,0.0,1,1
+728,yes,Hinsbecker Berg,9,160.0,0.05,1,1
+729,yes,Hinsbecker Berg,5b,116.2,0.58,2,3
+730,yes,Hinsbecker Hang,8,75.1,0.0,1,1
+731,yes,Hinsbecker Hang,5,100.5,0.0,1,1
+732,yes,Wohlgemuthweg,1,159.9,,0,0
+733,yes,Wohlgemuthweg,5,161.8,0.02,1,1
+734,yes,Wohlgemuthweg,3,163.6,0.05,0,0
+735,yes,Wohlgemuthweg,7a,192.3,0.19,0,1
+736,yes,Wohlgemuthweg,5a,107.2,,0,0
+737,yes,Wohlgemuthweg,7,138.2,0.0,0,0
+738,yes,Wohlgemuthweg,11,127.3,0.0,2,1
+739,yes,Wohlgemuthweg,9,133.1,0.0,1,1
+740,residential,Marienbergstraße,72a,219.9,0.02,0,0
+741,detached,Marienbergstraße,66,164.0,0.05,0,0
+742,detached,Marienbergstraße,68,173.4,0.02,0,0
+743,detached,Marienbergstraße,70,125.9,0.02,0,0
+744,yes,Marienbergstraße,67,65.2,0.0,0,0
+745,yes,Marienbergstraße,69,143.4,0.7,0,3
+746,yes,Marienbergstraße,59,124.3,0.02,0,0
+747,yes,Marienbergstraße,63,64.7,0.02,0,0
+748,yes,Marienbergstraße,35,61.6,0.06,0,0
+749,yes,Marienbergstraße,43,56.1,0.02,0,0
+750,yes,Marienbergstraße,55,136.5,0.15,0,1
+751,yes,Marienbergstraße,39,98.3,0.01,0,0
+752,yes,Bovermanns Weg,32,144.9,0.51,1,3
+753,garages,,,80.2,0.09,0,0
+754,yes,Bovermanns Weg,38,83.2,0.04,0,0
+755,yes,Bovermanns Weg,46,141.9,0.0,0,0
+756,yes,Bovermanns Weg,36,192.5,0.09,0,0
+757,yes,Bovermanns Weg,42b,201.2,0.0,0,0
+758,yes,Bovermanns Weg,25,279.2,0.13,0,1
+759,yes,Bovermanns Weg,24,74.3,0.0,1,1
+760,apartments,Bovermanns Weg,"18,20",468.5,0.69,3,3
+761,yes,Bovermanns Weg,29a,62.1,0.0,0,0
+762,yes,Bovermanns Weg,31,163.2,0.16,0,1
+763,yes,Bovermanns Weg,23,84.4,0.0,0,0
+764,yes,Bovermanns Weg,26,104.5,0.0,0,0
+765,yes,Bovermanns Weg,27b,78.8,0.0,0,0
+766,yes,Bovermanns Weg,33,169.7,0.0,0,0
+767,yes,Marienbergstraße,71,88.1,0.0,0,0
+768,yes,Marienbergstraße,73,113.1,0.0,0,0
+769,yes,Marienbergstraße,75,119.4,0.92,0,3
+770,yes,Blockstraße,46,99.9,0.09,0,0
+771,yes,Blockstraße,48,147.4,0.08,0,0
+772,yes,Blockstraße,50,115.4,0.05,0,0
+773,yes,Blockstraße,44,126.8,0.01,0,0
+774,yes,Blockstraße,42,234.9,0.0,0,0
+775,yes,Blockstraße,39,349.0,0.06,0,0
+776,yes,Blockstraße,32,242.9,0.01,0,0
+777,yes,Blockstraße,30,194.6,0.02,0,0
+778,yes,Blockstraße,33,200.2,0.01,0,0
+779,yes,Blockstraße,29,192.9,0.02,0,0
+780,yes,Blockstraße,19,68.1,0.38,3,2
+781,yes,Blockstraße,11,68.2,0.0,0,0
+782,yes,Blockstraße,25,86.9,0.0,0,0
+783,yes,Blockstraße,12,47.6,1.42,1,3
+784,yes,Byfanger Straße,149,66.5,0.0,0,0
+785,yes,Blockstraße,4,58.8,0.0,0,0
+786,yes,Blockstraße,3,91.2,0.0,0,0
+787,semidetached_house,Marienbergstraße,23,61.3,0.02,2,1
+788,semidetached_house,Marienbergstraße,11,57.7,0.0,0,0
+789,yes,Byfanger Straße,159,87.4,0.0,0,0
+790,semidetached_house,Marienbergstraße,7,78.2,0.0,0,0
+791,yes,Marienbergstraße,15,94.9,0.0,0,0
+792,yes,Marienbergstraße,27,109.1,0.06,0,0
+793,yes,Marienbergstraße,31,76.4,0.02,0,0
+794,yes,Blockstraße,28,122.5,0.04,0,0
+795,yes,Blockstraße,20,52.0,0.02,1,1
+796,yes,Bovermanns Weg,12,57.8,0.0,1,1
+797,residential,,,181.1,0.0,0,0
+798,yes,Bovermanns Weg,8,95.5,0.93,0,3
+799,semidetached_house,Marienbergstraße,28,66.3,0.0,0,0
+800,semidetached_house,Marienbergstraße,24,64.4,0.0,0,0
+801,yes,Marienbergstraße,32,62.2,0.0,0,0
+802,semidetached_house,Marienbergstraße,36,71.2,0.0,0,0
+803,yes,Marienbergstraße,44,84.2,0.0,0,0
+804,semidetached_house,Marienbergstraße,64,143.8,0.0,0,0
+805,house,Marienbergstraße,52,98.1,0.0,0,0
+806,semidetached_house,Marienbergstraße,60,100.6,0.0,0,0
+807,yes,Marienbergstraße,18,114.4,1.26,0,3
+808,semidetached_house,Marienbergstraße,40,78.0,0.0,0,0
+809,semidetached_house,Marienbergstraße,56,85.7,0.0,0,0
+810,yes,Marienbergstraße,16,53.6,0.04,1,1
+811,yes,Marienbergstraße,12,93.2,0.07,0,0
+812,yes,Marienbergstraße,8,89.0,0.0,0,0
+813,yes,Byfanger Straße,165,68.1,0.0,0,0
+814,yes,Byfanger Straße,173,56.9,0.0,0,0
+815,yes,Byfanger Straße,195,87.6,0.04,0,0
+816,yes,Engelssiepen,31,88.8,0.0,0,0
+817,yes,Byfanger Straße,171,120.6,0.0,0,0
+818,yes,Engelssiepen,9,121.9,0.02,0,0
+819,yes,Engelssiepen,1,170.2,0.0,0,0
+820,yes,Engelssiepen,3,121.3,0.03,0,0
+821,yes,Byfanger Straße,181,50.8,0.0,0,0
+822,apartments,Bovermanns Weg,"37,39",183.3,0.0,0,0
+823,residential,Marienbergstraße,80,207.9,0.0,0,0
+824,apartments,Breddebuschhang,19,197.3,0.0,0,0
+825,yes,Breddebuschhang,17,104.6,0.02,0,0
+826,yes,Breddebuschhang,9,106.9,0.0,0,0
+827,yes,,,40.4,0.0,0,0
+828,yes,Breddebuschhang,12,119.7,0.43,0,2
+829,yes,Breddebuschhang,14,103.7,0.06,0,0
+830,yes,Breddebuschhang,7b,94.1,0.0,0,0
+831,yes,Bovermanns Kamp,27,134.7,0.0,0,0
+832,yes,Hinsbecker Berg,35a,150.8,0.0,0,0
+833,yes,Bovermanns Kamp,34,184.9,0.08,1,1
+834,yes,Breddebuschhang,2a,96.3,0.03,0,0
+835,residential,Breddebuschhang,4,85.7,0.0,0,0
+836,yes,Hinsbecker Berg,31a,96.6,0.01,2,1
+837,yes,Bovermanns Kamp,25,144.0,0.0,0,0
+838,yes,Bovermanns Kamp,28,116.3,0.0,0,0
+839,yes,Bovermanns Kamp,22,113.2,0.0,1,1
+840,yes,Bovermanns Kamp,23,136.8,0.0,0,0
+841,yes,Hinsbecker Berg,23,172.8,0.14,0,1
+842,yes,Hinsbecker Berg,27,119.7,0.0,0,0
+843,house,Breddebuschhang,5b,93.9,0.0,0,0
+844,yes,Hinsbecker Berg,13,66.3,0.0,0,0
+845,apartments,Hinsbecker Berg,14,158.7,0.0,0,0
+846,yes,Hinsbecker Berg,10,149.1,0.0,1,1
+847,roof,,,407.5,0.02,0,0
+848,apartments,,,152.1,0.0,1,1
+849,apartments,Kupferdreher Straße,57,153.1,0.05,1,1
+850,apartments,Kupferdreher Straße,53,209.2,0.06,4,3
+851,apartments,,,221.3,0.62,0,3
+852,apartments,Kupferdreher Straße,69,200.6,0.04,0,0
+853,apartments,Hinsbecker Löh,6,169.8,1.4,1,3
+854,yes,Kupferdreher Straße,82,962.3,0.01,0,0
+855,apartments,Kupferdreher Straße,85,148.7,0.13,0,1
+856,apartments,Schwermannstraße,66,110.0,0.0,0,0
+857,apartments,Sandstraße,13,233.5,0.12,2,1
+858,apartments,Schwermannstraße,64,117.4,0.0,0,0
+859,apartments,Byfanger Straße,22,228.7,0.82,5,3
+860,apartments,Byfanger Straße,24,129.3,0.24,5,3
+861,apartments,Byfanger Straße,26,191.7,0.46,5,3
+862,apartments,Byfanger Straße,28,196.4,0.0,5,3
+863,apartments,Byfanger Straße,30,181.9,0.06,5,3
+864,apartments,Byfanger Straße,32,143.1,0.58,0,3
+865,office,Prinz-Friedrich-Straße,28d,224.2,0.01,0,0
+866,yes,Prinz-Friedrich-Straße,"28g, 28h",258.4,0.03,0,0
+867,yes,Prinz-Friedrich-Straße,28f,144.7,0.02,0,0
+868,yes,Prinz-Friedrich-Straße,28e,252.4,0.04,0,0
+869,yes,Provesthöhe,15,155.3,0.0,0,0
+870,yes,Hinsbecker Berg,44,169.0,0.0,1,1
+871,yes,Provesthöhe,19,204.0,0.0,0,0
+872,yes,Provesthöhe,21,174.5,0.0,0,0
+873,yes,Hinsbecker Berg,54,120.8,0.0,1,1
+874,yes,Byfanger Straße,93,106.2,0.0,0,0
+875,yes,Hinsbecker Berg,60,146.5,0.51,0,3
+876,yes,Hinsbecker Berg,58,182.6,0.03,0,0
+877,yes,,,62.0,0.0,0,0
+878,yes,Hinsbecker Berg,62,141.8,0.1,0,0
+879,apartments,Sandstraße,12,113.3,0.0,3,2
+880,detached,Schwermannstraße,61,139.1,0.0,0,0
+881,commercial,Kupferdreher Straße,97a,100.2,0.02,1,1
+882,apartments,Kupferdreher Straße,101,151.3,0.0,0,0
+883,apartments,Kupferdreher Straße,145,144.8,0.0,1,1
+884,yes,Anstockstraße,6,184.3,0.11,1,1
+885,school,Schwermannstraße,9,365.0,0.0,1,1
+886,yes,Kupferdreher Straße,155,112.2,0.0,0,0
+887,yes,Kupferdreher Straße,165a,144.0,0.0,0,0
+888,yes,,,306.1,1.73,0,3
+889,apartments,Kupferdreher Straße,100,190.1,1.66,3,3
+890,apartments,Hinsbecker Löh,5,152.9,0.8,1,3
+891,detached,Kupferdreher Straße,102,83.5,1.09,0,3
+892,house,Hinsbecker Löh,7a,72.3,0.73,5,3
+893,yes,,,797.1,0.33,2,2
+894,yes,,,626.2,0.03,2,1
+895,yes,Gasstraße,12,152.1,0.18,1,1
+896,industrial,Gasstraße,2a,11590.6,0.03,0,0
+897,yes,Hinsbecker Berg,45,153.8,0.0,0,0
+898,yes,Provesthöhe,23,168.0,0.0,0,0
+899,yes,Provesthöhe,32,89.4,0.0,1,1
+900,yes,Provesthöhe,25,161.7,0.05,0,0
+901,yes,Provesthöhe,31,95.4,0.0,3,2
+902,yes,Bovermanns Kamp,18b,139.7,0.02,0,0
+903,yes,Hinsbecker Berg,65,195.6,0.09,0,0
+904,detached,Bovermanns Kamp,11,78.4,0.0,0,0
+905,yes,Hinsbecker Berg,59,130.0,0.0,0,0
+906,yes,Hinsbecker Berg,67,86.7,0.0,0,0
+907,yes,Byfanger Straße,97,115.2,0.04,0,0
+908,yes,Hinsbecker Berg,63,144.0,0.0,0,0
+909,yes,Hinsbecker Berg,57,95.7,0.0,1,1
+910,yes,Byfanger Straße,120,101.8,0.0,0,0
+911,yes,Byfanger Straße,100,107.9,0.04,0,0
+912,yes,Grotestraße,1,82.8,0.0,0,0
+913,yes,Byfanger Straße,142,58.9,0.0,1,1
+914,yes,Byfanger Straße,166,115.1,0.02,0,0
+915,yes,Byfanger Straße,162,114.3,0.0,2,1
+916,yes,Byfanger Straße,158,141.6,0.01,0,0
+917,yes,Byfanger Straße,186,75.7,0.0,0,0
+918,yes,Byfanger Straße,178,87.8,0.02,0,0
+919,yes,Byfanger Straße,174,107.3,0.02,1,1
+920,yes,Provesthöhe,30,85.9,0.16,0,1
+921,detached,Bovermanns Kamp,10,122.7,0.03,0,0
+922,yes,Bovermanns Kamp,16,106.2,0.0,2,1
+923,apartments,Bovermanns Kamp,"2,4",278.0,0.08,2,1
+924,yes,Byfanger Straße,111,88.8,0.0,0,0
+925,yes,Byfanger Straße,115,60.1,0.0,0,0
+926,yes,Grotehang,16,77.5,0.0,0,0
+927,apartments,Niederweniger Straße,21,127.7,0.3,0,2
+928,yes,Grotehang,18,132.7,0.0,0,0
+929,apartments,Niederweniger Straße,25,152.0,0.0,0,0
+930,yes,Grotehang,14,71.9,0.0,0,0
+931,yes,Grotehang,12,87.2,0.0,0,0
+932,apartments,Grotehang,11,81.7,0.0,0,0
+933,yes,Grotehang,5,89.9,0.0,0,0
+934,yes,An den Friedhöfen,4,242.1,0.08,0,0
+935,yes,An den Friedhöfen,20,122.6,0.01,0,0
+936,apartments,Niederweniger Straße,"37,39",378.4,0.08,0,0
+937,apartments,Niederweniger Straße,53,124.0,0.03,0,0
+938,apartments,Niederweniger Straße,49,140.2,0.01,0,0
+939,yes,Niederweniger Straße,59,141.4,0.06,0,0
+940,apartments,Niederweniger Straße,45,223.3,0.06,0,0
+941,apartments,Niederweniger Straße,47,93.5,0.0,0,0
+942,yes,Niederweniger Straße,57,81.0,0.0,0,0
+943,yes,Niederweniger Straße,73,191.7,0.88,1,3
+944,yes,Niederweniger Straße,65,102.1,0.0,0,0
+945,yes,Niederweniger Straße,"67, 69",84.2,0.02,1,1
+946,yes,Niederweniger Straße,75,189.7,0.54,0,3
+947,yes,An den Friedhöfen,47b,99.5,0.01,0,0
+948,yes,An den Friedhöfen,44,108.8,0.0,0,0
+949,yes,An den Friedhöfen,53,122.6,0.27,0,1
+950,yes,An den Friedhöfen,55,234.5,0.0,0,0
+951,yes,An den Friedhöfen,42a,69.7,0.0,0,0
+952,yes,An den Friedhöfen,51,105.7,0.0,0,0
+953,yes,An den Friedhöfen,47a,96.2,0.0,0,0
+954,detached,An den Friedhöfen,61,119.0,0.04,0,0
+955,detached,An den Friedhöfen,57,137.6,0.72,0,3
+956,residential,,,99.5,1.02,0,3
+957,yes,Niederweniger Straße,77,147.9,0.07,0,0
+958,yes,Niederweniger Straße,103,124.8,0.04,1,1
+959,yes,An den Friedhöfen,40a,237.5,0.03,0,0
+960,yes,An den Friedhöfen,52,118.2,0.0,1,1
+961,yes,Niederweniger Straße,87a,213.7,0.03,0,0
+962,yes,Niederweniger Straße,83a,198.0,0.06,0,0
+963,yes,Niederweniger Straße,81b,212.4,0.02,0,0
+964,yes,Niederweniger Straße,85a,206.0,0.14,1,1
+965,yes,An den Friedhöfen,48,118.9,0.0,0,0
+966,yes,An den Friedhöfen,50,162.6,0.0,1,1
+967,yes,Niederweniger Straße,74,92.6,0.03,2,1
+968,yes,Niederweniger Straße,68,146.4,0.05,1,1
+969,yes,Niederweniger Straße,72,203.7,0.0,1,1
+970,yes,Niederweniger Straße,74a,155.1,0.0,0,0
+971,yes,Niederweniger Straße,76,103.4,0.0,1,1
+972,yes,Beisemannhang,20,149.5,0.08,0,0
+973,yes,Beisemannhang,18,220.9,0.02,0,0
+974,yes,Beisemannhang,9,249.7,0.1,0,1
+975,yes,Beisemannhang,15,177.6,0.0,0,0
+976,yes,Beisemannhang,7,118.4,0.0,0,0
+977,yes,Beisemannhang,11,218.6,0.0,1,1
+978,yes,Beisemannhang,13,259.0,0.0,1,1
+979,yes,Beisemannhang,12,169.2,0.02,0,0
+980,yes,,,36.8,0.0,0,0
+981,yes,Beisemannhang,10,188.3,0.0,0,0
+982,yes,Beisemannhang,1,196.5,0.02,0,0
+983,residential,,,238.7,0.0,0,0
+984,yes,Beisemannhang,6,196.0,0.03,0,0
+985,yes,Niederweniger Straße,98,197.6,0.09,0,0
+986,yes,,,73.9,0.0,0,0
+987,yes,Niederweniger Straße,100,172.7,0.08,0,0
+988,yes,Niederweniger Straße,96,158.1,0.27,0,1
+989,yes,Niederweniger Straße,93,167.5,0.0,0,0
+990,yes,Niederweniger Straße,82,134.8,0.0,0,0
+991,yes,Schliepersberg,32b,101.7,0.05,0,0
+992,yes,Schliepersberg,34b,93.3,0.0,0,0
+993,yes,Schliepersberg,30b,149.2,0.0,0,0
+994,yes,Schliepersberg,36b,105.6,0.11,0,1
+995,yes,Schliepersberg,28,160.5,0.0,1,1
+996,yes,Niederweniger Straße,118,91.2,0.0,0,0
+997,yes,Niederweniger Straße,126a,89.2,0.07,0,0
+998,yes,Niederweniger Straße,136,131.6,0.01,0,0
+999,yes,Niederweniger Straße,124a,88.5,0.04,0,0
+1000,yes,Niederweniger Straße,130,224.8,0.09,1,1
+1001,yes,Niederweniger Straße,132,115.1,0.0,0,0
+1002,yes,Niederweniger Straße,122a,89.8,0.0,0,0
+1003,yes,Niederweniger Straße,134,226.8,0.04,1,1
+1004,yes,Schliepersberg,24,146.9,0.47,0,2
+1005,residential,Schliepersberg,26a-26b,171.8,0.0,0,0
+1006,yes,Möllneys Nocken,4b,221.4,0.35,2,2
+1007,yes,Möllneys Nocken,14,285.2,0.0,0,0
+1008,yes,Möllneys Nocken,6b,163.5,0.0,0,0
+1009,yes,Möllneys Nocken,4a,168.4,0.0,1,1
+1010,semidetached_house,Möllneys Nocken,10,111.4,0.0,0,0
+1011,yes,Dixbäume,15b,144.9,0.12,0,1
+1012,yes,,,52.1,0.0,2,1
+1013,residential,Dixbäume,9d,157.1,0.13,1,1
+1014,residential,Dixbäume,9b,130.8,0.0,0,0
+1015,yes,Dixbäume,15d,127.8,0.0,0,0
+1016,residential,Dixbäume,9e,100.4,0.0,0,0
+1017,house,Schliepersberg,104,104.1,0.0,0,0
+1018,residential,Dixbäume,9f,185.8,0.01,0,0
+1019,yes,Dixbäume,15c,121.0,0.0,1,1
+1020,apartments,Schliepersberg,76,164.6,0.0,0,0
+1021,yes,Schliepersberg,74,216.4,0.03,1,1
+1022,yes,Schliepersberg,70,217.6,0.0,4,3
+1023,yes,Leibergweg,3,131.1,0.0,0,0
+1024,yes,Schliepersberg,105,91.7,0.0,0,0
+1025,yes,Schliepersberg,72,136.2,0.0,0,0
+1026,yes,,,80.6,0.01,0,0
+1027,yes,An den Friedhöfen,21,100.9,0.0,0,0
+1028,yes,An den Friedhöfen,15,101.0,0.05,0,0
+1029,yes,An den Friedhöfen,11,106.5,0.0,0,0
+1030,yes,An den Friedhöfen,27,97.4,0.0,0,0
+1031,yes,An den Friedhöfen,33,88.9,0.0,0,0
+1032,yes,An den Friedhöfen,19,89.7,0.0,0,0
+1033,yes,An den Friedhöfen,29,100.4,0.0,0,0
+1034,yes,An den Friedhöfen,28a,282.6,0.0,0,0
+1035,yes,An den Friedhöfen,30,134.0,0.11,0,1
+1036,apartments,Niederweniger Straße,48,180.3,0.0,0,0
+1037,yes,Niederweniger Straße,52,77.5,0.0,0,0
+1038,yes,Niederweniger Straße,44,94.7,0.0,1,1
+1039,yes,Leibergweg,9,131.7,0.0,0,0
+1040,yes,Niederweniger Straße,40,275.2,0.03,0,0
+1041,yes,Leibergweg,12,134.2,0.0,1,1
+1042,yes,Leibergweg,6,80.2,0.0,0,0
+1043,yes,Leibergweg,16,76.9,0.0,1,1
+1044,yes,Schliepersberg,95b,74.0,0.0,0,0
+1045,yes,,,54.2,0.0,2,1
+1046,yes,Schliepersberg,95,105.6,0.06,2,1
+1047,yes,Schliepersberg,64,126.1,0.04,0,0
+1048,yes,Schliepersberg,68,136.9,0.0,0,0
+1049,yes,Schliepersberg,66,104.8,0.0,0,0
+1050,yes,Schliepersberg,99,166.8,0.15,0,1
+1051,yes,Schliepersberg,97,138.4,0.0,0,0
+1052,yes,Schliepersberg,62,172.8,0.0,0,0
+1053,residential,Schliepersberg,89-91,207.1,0.0,3,2
+1054,residential,Schliepersberg,87,83.7,0.0,0,0
+1055,yes,Schliepersberg,73,86.3,0.0,0,0
+1056,residential,Schliepersberg,85,118.9,0.0,0,0
+1057,yes,Schliepersberg,81,112.1,0.0,0,0
+1058,yes,Schliepersberg,52,221.3,0.0,0,0
+1059,yes,Schliepersberg,50b,82.8,0.0,0,0
+1060,yes,Schliepersberg,54,203.6,0.0,0,0
+1061,yes,Schliepersberg,48,147.4,0.03,0,0
+1062,yes,Schliepersberg,44,167.5,0.01,0,0
+1063,yes,Schliepersberg,69,319.0,0.0,0,0
+1064,yes,Schliepersberg,42,213.4,0.0,0,0
+1065,yes,Schliepersberg,46,220.5,0.0,0,0
+1066,yes,,,54.2,0.01,3,2
+1067,yes,Schliepershang,3,92.3,0.0,1,1
+1068,yes,Schliepershang,19,134.9,0.0,0,0
+1069,yes,Schliepershang,7,133.7,0.0,0,0
+1070,yes,Schliepershang,23,101.0,0.0,0,0
+1071,yes,Schliepershang,15,142.0,0.0,1,1
+1072,yes,Schliepersberg,53,142.8,0.0,1,1
+1073,yes,Schliepersberg,55,127.9,0.64,0,3
+1074,yes,Schliepersberg,49,136.0,0.0,0,0
+1075,house,Schliepersberg,61,98.3,0.0,0,0
+1076,house,Auf'm Stöcken,32,75.5,0.0,0,0
+1077,yes,Schliepersberg,57,155.9,0.01,0,0
+1078,house,Auf'm Stöcken,20,83.8,0.13,0,1
+1079,semidetached_house,Auf'm Stöcken,26,103.8,0.0,0,0
+1080,yes,Schliepersberg,47,251.3,0.06,1,1
+1081,yes,Schliepersberg,45,261.9,0.0,1,1
+1082,house,Schliepersberg,43,77.6,0.0,1,1
+1083,house,Schliepersberg,37a,70.2,0.0,0,0
+1084,house,Schliepersberg,35a,77.8,0.0,0,0
+1085,semidetached_house,Schliepersberg,21b,82.5,0.0,0,0
+1086,house,Auf'm Stöcken,21,86.0,0.0,0,0
+1087,semidetached_house,Schliepersberg,27b,65.2,0.0,0,0
+1088,semidetached_house,Schliepersberg,15b,69.1,0.0,0,0
+1089,residential,Schliepersberg,10-10a,123.8,0.0,0,0
+1090,yes,Auf'm Stöcken,5,99.2,0.0,0,0
+1091,semidetached_house,Schliepersberg,17b,69.5,0.0,0,0
+1092,house,Auf'm Stöcken,29,86.9,0.0,0,0
+1093,semidetached_house,Schliepersberg,7,65.6,0.0,0,0
+1094,yes,Schliepersberg,29,213.4,0.0,0,0
+1095,yes,Schliepersberg,14,215.6,0.0,0,0
+1096,semidetached_house,Schliepersberg,9b,70.5,0.03,0,0
+1097,semidetached_house,Schliepersberg,25b,58.9,0.0,0,0
+1098,semidetached_house,Schliepersberg,19b,70.1,0.0,0,0
+1099,residential,Schliepersberg,12,168.9,0.01,0,0
+1100,yes,Schliepersberg,16,184.4,0.01,0,0
+1101,semidetached_house,Schliepersberg,11a,64.9,0.01,0,0
+1102,semidetached_house,Schliepersberg,23b,69.6,0.0,0,0
+1103,house,Auf'm Stöcken,13b,90.3,0.0,0,0
+1104,semidetached_house,Schliepersberg,13b,61.9,0.0,0,0
+1105,detached,Schliepersberg,8,159.3,0.0,0,0
+1106,semidetached_house,Schliepersberg,2,162.1,0.0,0,0
+1107,yes,Niederweniger Straße,123,143.4,0.05,0,0
+1108,yes,Niederweniger Straße,113,192.6,0.0,0,0
+1109,yes,Niederweniger Straße,117,161.9,0.0,0,0
+1110,house,,,88.6,0.69,2,3
+1111,house,Brackmannhang,20,77.4,0.0,0,0
+1112,yes,Niederweniger Straße,121,295.8,0.01,0,0
+1113,yes,Niederweniger Straße,119,286.6,0.11,2,1
+1114,detached,Niederweniger Straße,127a,86.7,0.13,0,1
+1115,detached,Drimbornweg,11,167.8,0.01,0,0
+1116,detached,Drimbornweg,6,127.2,0.02,0,0
+1117,detached,Drimbornweg,7,167.1,0.0,0,0
+1118,detached,Drimbornweg,9,156.5,0.0,0,0
+1119,detached,Drimbornweg,5,150.6,0.02,0,0
+1120,detached,Drimbornweg,3,158.5,0.0,0,0
+1121,detached,Drimbornweg,1,175.2,0.0,0,0
+1122,detached,Niederweniger Straße,131a,169.2,0.0,0,0
+1123,detached,Am Gerichtshaus,23,161.0,0.0,1,1
+1124,detached,Drimbornweg,4,172.8,0.0,0,0
+1125,detached,Niederweniger Straße,131b,97.6,0.04,0,0
+1126,detached,Am Gerichtshaus,2,147.7,,0,0
+1127,detached,Am Gerichtshaus,10,132.2,0.0,0,0
+1128,detached,Am Gerichtshaus,4,145.0,,0,0
+1129,semidetached_house,Am Gerichtshaus,8,84.5,,0,0
+1130,detached,Am Gerichtshaus,16,166.3,0.0,0,0
+1131,detached,Am Gerichtshaus,6,163.2,,0,0
+1132,detached,Am Gerichtshaus,21,183.1,0.05,0,0
+1133,yes,Niederweniger Straße,161,123.4,0.05,0,0
+1134,detached,Lothumweg,4,140.4,0.0,0,0
+1135,yes,Am Gerichtshaus,20,229.7,0.54,0,3
+1136,semidetached_house,Niederweniger Straße,157,79.1,0.0,0,0
+1137,detached,Am Gerichtshaus,12,124.3,0.0,0,0
+1138,detached,Am Gerichtshaus,14,109.5,0.0,0,0
+1139,detached,Niederweniger Straße,165,151.4,0.0,0,0
+1140,detached,Am Gerichtshaus,5,207.6,0.06,0,0
+1141,detached,Am Gerichtshaus,18,142.9,0.01,0,0
+1142,detached,Am Gerichtshaus,3,141.7,0.0,0,0
+1143,detached,Lothumweg,2,136.5,0.0,0,0
+1144,detached,Lothumweg,6,166.0,0.0,0,0
+1145,detached,Lothumweg,8,123.1,0.01,0,0
+1146,detached,Drimbornweg,2,200.7,0.17,1,1
+1147,yes,Am Gerichtshaus,41a,57.3,0.05,2,1
+1148,yes,Am Gerichtshaus,38,151.9,0.21,0,1
+1149,apartments,,,88.5,0.0,0,0
+1150,yes,Am Gerichtshaus,36,114.2,0.01,0,0
+1151,yes,Am Gerichtshaus,85,111.3,0.03,0,0
+1152,house,Am Gerichtshaus,44,72.9,0.0,0,0
+1153,house,Scharpenhang,74,105.8,0.25,1,1
+1154,house,Am Gerichtshaus,52,74.1,0.0,1,1
+1155,house,Am Gerichtshaus,61,102.8,0.0,1,1
+1156,yes,Am Gerichtshaus,83,141.4,0.01,0,0
+1157,house,Am Gerichtshaus,40,71.6,0.0,0,0
+1158,house,Am Gerichtshaus,48,72.5,0.0,1,1
+1159,apartments,Am Gerichtshaus,69,243.2,0.0,0,0
+1160,house,Am Gerichtshaus,89,68.7,0.02,0,0
+1161,house,Am Gerichtshaus,101,69.9,0.0,0,0
+1162,house,Am Gerichtshaus,93,73.5,0.0,0,0
+1163,garages,,,109.6,0.0,0,0
+1164,house,Am Gerichtshaus,97,89.9,0.02,0,0
+1165,yes,Hirtental,35,144.7,,0,0
+1166,yes,Hirtental,21,107.7,0.01,0,0
+1167,residential,Hirtental,32,41.0,0.0,0,0
+1168,yes,Hirtental,11,221.1,0.1,3,2
+1169,yes,Scharpenhang,3,187.3,0.0,1,1
+1170,yes,Hirtental,18,57.3,0.0,0,0
+1171,yes,Scharpenhang,1,70.9,0.01,1,1
+1172,yes,Scharpenhang,1a,108.0,0.12,2,1
+1173,yes,Scharpenhang,23,102.0,0.01,0,0
+1174,yes,Scharpenhang,13,119.5,0.0,0,0
+1175,yes,Scharpenhang,2,82.5,0.0,1,1
+1176,yes,Scharpenhang,15,131.3,0.03,0,0
+1177,yes,Scharpenhang,12,115.9,0.0,0,0
+1178,yes,Scharpenhang,17,63.6,0.0,0,0
+1179,yes,Scharpenhang,4,212.8,0.02,2,1
+1180,yes,Scharpenhang,14,127.2,0.01,0,0
+1181,yes,Scharpenhang,31,82.3,0.4,1,2
+1182,yes,Scharpenhang,27,99.3,0.01,1,1
+1183,yes,Scharpenhang,18,118.8,0.0,0,0
+1184,yes,Scharpenhang,39,62.9,0.0,0,0
+1185,yes,Scharpenhang,24,132.4,0.0,0,0
+1186,yes,Scharpenhang,28,121.0,0.0,1,1
+1187,yes,Scharpenhang,33,105.0,0.01,0,0
+1188,house,Scharpenhang,52a,61.1,0.0,0,0
+1189,yes,Byfanger Straße,222,103.8,0.0,1,1
+1190,yes,Byfanger Straße,218,83.8,0.01,1,1
+1191,yes,Scharpenhang,"40,40a",172.0,0.23,4,3
+1192,yes,Scharpenhang,"34,34a",186.0,0.84,0,3
+1193,house,Scharpenhang,46,94.9,0.0,0,0
+1194,yes,Scharpenhang,"42,42a",176.4,0.0,0,0
+1195,yes,Byfanger Straße,228,94.0,0.02,0,0
+1196,semidetached_house,Am Gerichtshaus,105,68.8,0.0,0,0
+1197,yes,Byfanger Straße,221,58.0,0.0,0,0
+1198,yes,Byfanger Straße,237,143.6,0.73,0,3
+1199,yes,Byfanger Straße,241,150.9,0.0,4,3
+1200,yes,Hirtental,1,193.6,0.38,4,3
+1201,yes,Byfanger Straße,217,97.2,0.0,0,0
+1202,yes,Engelssiepen,4,75.9,0.0,0,0
+1203,yes,Engelssiepen,12,88.0,0.06,0,0
+1204,yes,Bissenkamp,2,160.0,0.0,0,0
+1205,yes,,,119.9,0.05,1,1
+1206,yes,Bissenkamp,5,78.0,0.01,0,0
+1207,yes,Bissenkamp,1,115.3,0.0,0,0
+1208,yes,Bissenkamp,7,111.8,0.0,0,0
+1209,yes,Bissenkamp,10,50.1,0.0,0,0
+1210,residential,Bissenkamp,6,55.5,0.0,0,0
+1211,yes,Bissenkamp,14,92.8,0.0,0,0
+1212,yes,,,89.7,0.0,1,1
+1213,house,Bissenkamp,20,82.2,0.0,1,1
+1214,yes,Bissenkamp,28,136.2,0.0,0,0
+1215,house,Frauenstein,45,191.0,0.05,1,1
+1216,house,Frauenstein,47,168.8,0.0,0,0
+1217,house,Frauenstein,49,155.1,0.0,1,1
+1218,yes,Frauenstein,23,54.3,0.0,1,1
+1219,yes,Frauenstein,27,64.8,0.0,3,2
+1220,yes,Frauenstein,19,51.5,0.0,0,0
+1221,garages,,,161.5,0.07,3,2
+1222,garages,,,52.7,0.02,0,0
+1223,garages,,,50.2,0.0,3,2
+1224,yes,Oslenderstraße,21b,60.1,0.0,0,0
+1225,detached,Dilldorfer Straße,52a,121.6,0.03,1,1
+1226,apartments,,,436.3,0.02,2,1
+1227,yes,Rathgeberhof,3,165.0,0.0,2,1
+1228,yes,Dilldorfer Straße,27,358.4,0.03,0,0
+1229,yes,Oslenderstraße,13,164.7,0.23,0,1
+1230,detached,Dilldorfer Straße,52,122.2,0.0,0,0
+1231,yes,Dilldorfer Straße,23,326.3,0.0,0,0
+1232,monastery,Oslenderstraße,4,163.3,0.06,0,0
+1233,garages,,,30.2,0.0,0,0
+1234,detached,Dilldorfer Straße,48,99.0,0.0,0,0
+1235,yes,Oslenderstraße,11,281.2,0.05,1,1
+1236,detached,Dilldorfer Straße,54,104.5,0.06,1,1
+1237,apartments,Priemhauser Weg,8,171.1,0.0,0,0
+1238,semidetached_house,Priemhauser Weg,26,79.4,0.04,0,0
+1239,semidetached_house,Priemhauser Weg,34,96.1,0.04,0,0
+1240,yes,Priemhauser Weg,10,193.9,0.0,0,0
+1241,residential,,,332.6,0.0,0,0
+1242,yes,Priemhauser Weg,30,89.9,0.01,0,0
+1243,semidetached_house,Priemhauser Weg,24,87.8,0.03,0,0
+1244,residential,Priemhauser Weg,6,107.6,0.0,0,0
+1245,detached,Priemhauser Weg,11,154.4,,0,0
+1246,apartments,Priemhauser Weg,7,279.0,0.1,0,0
+1247,garages,,,97.8,0.0,0,0
+1248,yes,Priemhauser Weg,1,135.9,0.03,0,0
+1249,yes,,,208.2,0.07,2,1
+1250,yes,Deilbachtal,15,1122.3,0.24,2,1
+1251,yes,,,289.0,0.22,0,1
+1252,industrial,Deilbachtal,"23,25",3048.2,0.04,2,1
+1253,yes,,,229.1,,0,0
+1254,detached,Priembergweg,16,89.2,,0,0
+1255,detached,Priembergweg,14,88.9,0.0,0,0
+1256,detached,Priembergweg,12,135.0,0.06,0,0
+1257,house,Priembergweg,8,92.6,0.0,0,0
+1258,yes,Deilbachtal,3,242.5,0.07,0,0
+1259,yes,Asbachtal,52,259.6,0.0,0,0
+1260,house,Dilldorfer Straße,59,128.8,0.0,0,0
+1261,apartments,Dilldorfer Straße,45,273.2,0.0,0,0
+1262,apartments,,,333.9,0.02,0,0
+1263,apartments,Dilldorfer Straße,47,214.8,0.0,0,0
+1264,yes,,,266.1,1.11,3,3
+1265,yes,,,99.4,0.97,1,3
+1266,yes,Deilbachbrücke,10,95.9,0.0,0,0
+1267,yes,,,472.5,0.03,2,1
+1268,kindergarten,Oslenderstraße,10,322.1,0.51,0,3
+1269,yes,,,61.6,0.0,0,0
+1270,yes,Frauenstein,137c,219.4,0.46,1,2
+1271,yes,Frauenstein,137b,239.4,0.56,2,3
+1272,apartments,,,188.5,0.11,2,1
+1273,yes,Frauenstein,137a,146.8,0.4,0,2
+1274,yes,Frauenstein,137e,79.7,0.09,0,0
+1275,yes,Prinz-Friedrich-Straße,34,245.6,0.05,0,0
+1276,yes,Hinsbecker Berg,30,584.0,0.42,4,3
+1277,yes,Prinz-Friedrich-Platz,3,699.2,0.05,2,1
+1278,yes,,,184.4,0.0,0,0
+1279,yes,,,186.0,0.07,0,0
+1280,yes,Kupferdreher Straße,181a,168.3,0.0,0,0
+1281,house,Benderstraße,3,82.0,0.03,1,1
+1282,apartments,Benderstraße,9,147.2,0.09,0,0
+1283,apartments,Benderstraße,10,176.0,0.04,2,1
+1284,garages,,,88.8,0.0,0,0
+1285,yes,Möllneys Nocken,35a,169.8,0.03,0,0
+1286,shed,,,37.8,0.01,0,0
+1287,residential,,,49.1,0.0,0,0
+1288,hospital,,,258.7,0.38,2,2
+1289,hospital,,,622.8,0.75,2,3
+1290,yes,Reulsbergweg,1a,65.4,0.0,0,0
+1291,yes,Dixbäume,33,65.3,0.0,0,0
+1292,yes,Hammer Straße,218,205.0,0.06,0,0
+1293,yes,Hammer Straße,224,235.7,0.0,0,0
+1294,commercial,Hammer Straße,222,235.8,0.09,0,0
+1295,yes,Engelssiepen,18,105.8,0.03,1,1
+1296,yes,Kupferdreher Straße,,218.7,0.0,1,1
+1297,yes,Kupferdreher Straße,245,125.1,0.0,0,0
+1298,commercial,Kupferdreher Straße,86,341.5,0.0,0,0
+1299,yes,,,13.7,0.0,1,1
+1300,apartments,Byfanger Straße,14,77.6,0.0,5,3
+1301,yes,,,59.6,0.0,0,0
+1302,house,Auf'm Stöcken,28,78.6,0.0,0,0
+1303,yes,,,146.5,0.02,0,0
+1304,garage,,,18.9,0.0,0,0
+1305,yes,,,23.1,0.0,1,1
+1306,yes,,,26.5,0.0,0,0
+1307,yes,,,2.7,0.0,1,1
+1308,yes,,,25.1,0.0,0,0
+1309,yes,,,21.0,0.0,0,0
+1310,yes,,,41.1,0.0,0,0
+1311,yes,,,7.6,0.0,0,0
+1312,yes,,,33.6,0.0,0,0
+1313,yes,,,16.6,0.05,0,0
+1314,yes,,,36.8,0.0,1,1
+1315,yes,,,12.9,0.0,1,1
+1316,yes,,,23.8,0.0,0,0
+1317,yes,,,4.8,0.07,1,1
+1318,yes,,,5.2,0.0,0,0
+1319,yes,,,22.9,0.02,0,0
+1320,yes,,,23.4,0.0,0,0
+1321,house,Auf'm Stöcken,15,95.3,0.0,0,0
+1322,yes,,,40.2,0.0,0,0
+1323,yes,,,53.0,0.0,0,0
+1324,garage,,,18.0,0.04,0,0
+1325,house,Schliepersberg,31,136.8,0.01,0,0
+1326,yes,,,89.2,0.0,1,1
+1327,house,Auf'm Stöcken,30,83.3,0.0,0,0
+1328,garage,,,21.9,0.01,0,0
+1329,house,Auf'm Stöcken,17,95.8,0.0,0,0
+1330,house,Auf'm Stöcken,19,82.2,0.0,0,0
+1331,house,Auf'm Stöcken,16,75.6,0.0,0,0
+1332,house,Schliepersberg,37b,70.0,0.0,0,0
+1333,house,Auf'm Stöcken,13a,98.8,0.0,0,0
+1334,house,Auf'm Stöcken,18,80.9,0.0,0,0
+1335,house,Schliepersberg,41,72.7,0.0,0,0
+1336,house,Schliepersberg,33b,74.1,0.0,0,0
+1337,house,Auf'm Stöcken,11,97.4,0.0,0,0
+1338,house,Schliepersberg,39b,70.7,0.0,0,0
+1339,yes,,,44.3,0.0,0,0
+1340,yes,,,42.1,0.01,0,0
+1341,house,Auf'm Stöcken,7,100.0,0.0,0,0
+1342,house,Schliepersberg,33a,66.5,0.01,0,0
+1343,yes,,,54.7,0.0,0,0
+1344,house,Schliepersberg,35b,69.3,0.0,0,0
+1345,house,Auf'm Stöcken,9,91.3,0.0,0,0
+1346,house,Auf'm Stöcken,27,87.8,0.0,0,0
+1347,house,Auf'm Stöcken,25,84.8,0.0,0,0
+1348,yes,,,53.8,0.0,0,0
+1349,house,Schliepersberg,39a,67.5,0.0,0,0
+1350,semidetached_house,Auf'm Stöcken,22,104.0,0.0,0,0
+1351,house,Auf'm Stöcken,23,89.7,0.0,0,0
+1352,yes,,,44.3,0.0,1,1
+1353,yes,Auf'm Stöcken,3,124.6,0.04,0,0
+1354,semidetached_house,Schliepersberg,21a,66.1,0.0,0,0
+1355,yes,,,8.8,0.0,0,0
+1356,yes,,,10.5,0.0,0,0
+1357,garage,,,17.3,0.0,0,0
+1358,yes,,,16.7,0.0,0,0
+1359,yes,,,12.6,0.0,0,0
+1360,yes,,,20.3,0.0,0,0
+1361,garage,,,18.8,0.0,0,0
+1362,yes,,,26.4,0.01,0,0
+1363,yes,,,12.9,0.04,0,0
+1364,yes,,,5.8,0.02,0,0
+1365,yes,,,13.7,0.0,0,0
+1366,yes,,,5.6,0.0,0,0
+1367,yes,,,19.8,0.04,1,1
+1368,yes,,,11.1,0.0,0,0
+1369,yes,,,9.9,0.0,0,0
+1370,yes,,,15.9,0.0,0,0
+1371,yes,,,16.7,0.0,0,0
+1372,yes,,,12.1,0.0,0,0
+1373,semidetached_house,Schliepersberg,9a,68.6,0.0,0,0
+1374,yes,,,18.4,0.0,0,0
+1375,semidetached_house,Schliepersberg,17a,70.2,0.0,0,0
+1376,yes,,,15.0,0.0,0,0
+1377,garage,,,17.8,0.0,0,0
+1378,garage,,,47.3,0.0,0,0
+1379,semidetached_house,Schliepersberg,13a,59.9,0.0,0,0
+1380,yes,,,14.4,0.0,0,0
+1381,garage,,,28.7,0.0,0,0
+1382,yes,,,25.7,0.02,0,0
+1383,garage,,,17.4,0.1,0,0
+1384,garage,,,15.0,0.0,0,0
+1385,garage,,,15.7,0.02,0,0
+1386,garage,,,17.3,0.0,0,0
+1387,yes,,,33.0,0.03,0,0
+1388,garage,,,15.7,0.0,0,0
+1389,yes,,,28.3,0.0,0,0
+1390,garage,,,17.8,0.0,0,0
+1391,yes,,,18.1,0.0,0,0
+1392,semidetached_house,Schliepersberg,25a,64.5,0.0,0,0
+1393,garage,,,31.0,0.0,0,0
+1394,yes,,,32.4,0.06,0,0
+1395,semidetached_house,Schliepersberg,27a,63.6,0.1,0,0
+1396,semidetached_house,Schliepersberg,19a,90.5,0.02,0,0
+1397,yes,,,28.8,0.02,0,0
+1398,semidetached_house,Schliepersberg,5,83.0,0.0,0,0
+1399,semidetached_house,Schliepersberg,15a,65.8,0.0,0,0
+1400,semidetached_house,Schliepersberg,23a,71.4,0.02,0,0
+1401,yes,,,33.2,0.07,0,0
+1402,semidetached_house,Schliepersberg,11b,86.9,0.0,0,0
+1403,semidetached_house,Schliepersberg,4,155.1,0.0,0,0
+1404,hut,,,13.1,0.0,0,0
+1405,shed,,,19.9,0.0,0,0
+1406,shed,,,43.2,0.0,0,0
+1407,shed,,,36.1,0.0,0,0
+1408,yes,,,54.3,0.0,0,0
+1409,yes,,,52.5,0.01,1,1
+1410,yes,,,46.6,0.0,2,1
+1411,apartments,Hinsbecker Löh,1,222.4,0.0,3,2
+1412,apartments,Hinsbecker Löh,3,131.9,0.59,3,3
+1413,yes,Kupferdreher Straße,32,117.9,3.62,0,3
+1414,yes,Kupferdreher Straße,34,340.6,1.93,1,3
+1415,yes,Kupferdreher Straße,40,65.6,0.0,0,0
+1416,yes,Kupferdreher Straße,44,126.9,0.03,2,1
+1417,yes,Kupferdreher Straße,46,137.7,0.0,0,0
+1418,yes,Kupferdreher Straße,48,185.1,0.29,0,1
+1419,apartments,Kupferdreher Straße,60,143.9,0.7,0,3
+1420,apartments,Kupferdreher Straße,62,176.2,0.57,0,3
+1421,apartments,Kupferdreher Straße,64,182.4,0.57,0,3
+1422,apartments,Kupferdreher Straße,66,184.6,0.4,0,2
+1423,apartments,Kupferdreher Straße,68,182.0,0.05,0,0
+1424,apartments,Kupferdreher Straße,92,188.9,0.18,0,1
+1425,apartments,Kupferdreher Straße,94,189.1,0.23,0,1
+1426,apartments,Kupferdreher Straße,96,187.0,0.18,0,1
+1427,apartments,Kupferdreher Straße,98,189.2,0.17,0,1
+1428,yes,Frauenstein,117,105.3,0.0,0,0
+1429,yes,Frauenstein,117a,105.3,0.0,0,0
+1430,yes,Frauenstein,108,233.0,0.0,0,0
+1431,house,Frauenstein,110,185.3,0.04,0,0
+1432,yes,Frauenstein,130,234.3,0.03,0,0
+1433,yes,Frauenstein,133,172.3,0.03,0,0
+1434,garage,,,52.3,0.03,0,0
+1435,garage,,,56.2,0.0,0,0
+1436,yes,Hellersberg,1,81.7,0.0,0,0
+1437,house,Hellersberg,7,86.6,,0,0
+1438,yes,Hellersberg,3,85.0,0.01,0,0
+1439,house,Hellersberg,9,76.0,,0,0
+1440,house,Hellersberg,5,86.4,,0,0
+1441,house,Hellersberg,11,74.1,,0,0
+1442,garage,,,14.4,,0,0
+1443,garage,,,38.5,,0,0
+1444,yes,Am Dolmen,1a,44.8,0.0,0,0
+1445,yes,Dilldorfer Allee,1a,44.9,0.0,0,0
+1446,yes,Am Dolmen,1b,44.7,0.0,0,0
+1447,yes,Dilldorfer Allee,1b,45.0,0.03,0,0
+1448,yes,Am Dolmen,1c,45.1,0.0,0,0
+1449,yes,Dilldorfer Allee,1c,44.8,,0,0
+1450,yes,Am Dolmen,11,72.7,,0,0
+1451,yes,Ruhrwinkel,16,78.0,,0,0
+1452,yes,Ruhrwinkel,20,78.0,,0,0
+1453,yes,Ruhrwinkel,18,78.0,,0,0
+1454,yes,Ruhrwinkel,22,78.1,,0,0
+1455,yes,Ruhrwinkel,21,70.4,,0,0
+1456,yes,Ruhrwinkel,23,70.5,,0,0
+1457,yes,Ruhrwinkel,25,70.3,,0,0
+1458,yes,Ruhrwinkel,27,70.1,,0,0
+1459,yes,Dilldorfer Allee,3a,52.1,0.01,0,0
+1460,yes,Dilldorfer Allee,3b,50.9,0.01,0,0
+1461,yes,Dilldorfer Allee,3c,52.2,0.01,0,0
+1462,yes,Dilldorfer Allee,5a,51.8,0.04,0,0
+1463,yes,Dilldorfer Allee,5b,50.9,0.0,0,0
+1464,yes,Dilldorfer Allee,5c,51.1,0.0,0,0
+1465,yes,Dilldorfer Allee,7a,52.8,0.0,0,0
+1466,yes,Dilldorfer Allee,7b,47.6,0.0,0,0
+1467,yes,Dilldorfer Allee,7c,53.0,0.0,0,0
+1468,yes,Am Wieselbach,7,247.2,,0,0
+1469,yes,Am Dolmen,9,72.7,,0,0
+1470,yes,Am Wieselbach,9,175.5,,0,0
+1471,residential,Heidbergweg,16e,133.4,0.0,0,0
+1472,service,,,45.7,0.0,1,1
+1473,residential,,,160.5,0.19,1,1
+1474,residential,,,160.6,0.52,0,3
+1475,yes,Heidbergweg,31,784.6,0.75,1,3
+1476,yes,Am Seebogen,1,67.6,0.01,0,0
+1477,yes,Am Seebogen,60,326.6,1.17,0,3
+1478,semidetached_house,Am Seebogen,53,66.4,0.01,0,0
+1479,detached,Am Seebogen,24,291.8,0.82,0,3
+1480,semidetached_house,Am Seebogen,37,66.3,0.0,0,0
+1481,yes,Am Seebogen,19,64.3,0.0,0,0
+1482,yes,Am Seebogen,7,66.1,0.0,0,0
+1483,yes,Am Seebogen,23,64.5,0.0,0,0
+1484,yes,Am Seebogen,11,65.8,0.0,0,0
+1485,detached,Am Seebogen,18,272.5,0.07,0,0
+1486,yes,Am Seebogen,21,64.6,0.0,0,0
+1487,yes,Am Seebogen,9,65.9,0.0,0,0
+1488,semidetached_house,Am Seebogen,41,66.3,0.02,0,0
+1489,yes,Am Seebogen,25,66.3,0.0,0,0
+1490,semidetached_house,Am Seebogen,49,66.4,0.02,0,0
+1491,yes,Am Seebogen,13,67.9,0.04,0,0
+1492,yes,Am Seebogen,31,64.5,0.0,0,0
+1493,yes,Am Seebogen,27,66.4,0.0,2,1
+1494,semidetached_house,Am Seebogen,45,66.3,0.02,0,0
+1495,yes,Am Seebogen,62,304.4,0.09,2,1
+1496,semidetached_house,Am Seebogen,57,66.3,0.0,0,0
+1497,yes,Am Seebogen,33,66.5,0.0,0,0
+1498,yes,Am Seebogen,29,64.3,0.0,0,0
+1499,detached,Am Seebogen,16,274.3,0.04,0,0
+1500,yes,Am Seebogen,15,66.1,0.0,0,0
+1501,yes,Am Seebogen,3,65.8,0.0,0,0
+1502,yes,Am Seebogen,17,64.5,0.0,0,0
+1503,yes,Am Seebogen,5,65.8,0.0,0,0
+1504,house,Am Seebogen,26,91.5,0.03,0,0
+1505,house,Am Seebogen,42,71.4,0.01,0,0
+1506,house,Am Seebogen,36,80.5,0.06,0,0
+1507,house,Am Seebogen,30,75.9,0.01,0,0
+1508,house,Am Seebogen,38,90.3,0.01,0,0
+1509,house,Am Seebogen,32,75.5,0.01,0,0
+1510,house,Am Seebogen,48,71.4,0.02,0,0
+1511,house,Am Seebogen,58,71.3,0.06,0,0
+1512,house,Am Seebogen,34,80.8,0.0,0,0
+1513,house,Am Seebogen,46,71.5,0.01,0,0
+1514,house,Am Seebogen,56,71.5,0.02,0,0
+1515,house,Am Seebogen,54,71.4,0.01,0,0
+1516,house,Am Seebogen,52,71.4,0.01,0,0
+1517,house,Am Seebogen,50,71.6,0.02,0,0
+1518,house,Am Seebogen,44,71.4,0.01,0,0
+1519,house,Am Seebogen,40,89.4,0.03,0,0
+1520,house,Am Seebogen,28,75.9,0.01,0,0
+1521,yes,,,84.1,,0,0
+1522,yes,Dixbäume,5a,67.8,0.0,0,0
+1523,residential,Dixbäume,5c,197.2,0.0,2,1
+1524,semidetached_house,Phönixberg,1c,75.9,0.01,0,0
+1525,semidetached_house,Phönixberg,1e,72.7,0.0,0,0
+1526,residential,Provesthöhe,22,99.1,0.0,1,1
+1527,residential,Provesthöhe,20,167.3,0.0,0,0
+1528,residential,Provesthöhe,18,121.2,0.0,0,0
+1529,residential,Provesthöhe,16,212.6,0.01,0,0
+1530,apartments,Kupferdreher Straße,99,164.2,0.09,3,2
+1531,retail,Kupferdreher Straße,127,1486.0,1.2,2,3
+1532,apartments,Kupferdreher Straße,147,126.5,0.05,1,1
+1533,apartments,Kupferdreher Straße,148,92.0,0.0,0,0
+1534,apartments,Kupferdreher Straße,148a,92.0,0.0,0,0
+1535,apartments,Kupferdreher Straße,149,126.7,0.1,1,1
+1536,yes,Kupferdreher Straße,159a,73.7,0.58,0,3
+1537,yes,Kupferdreher Straße,159b,73.7,0.06,0,0
+1538,yes,Am Dolmen,3,69.4,0.0,0,0
+1539,yes,Am Dolmen,5,71.5,0.0,0,0
+1540,yes,Am Dolmen,7,69.1,0.0,0,0
+1541,garages,,,164.9,0.0,0,0
+1542,garages,,,89.4,0.0,0,0
+1543,yes,Rathgeberhof,1,78.7,0.0,0,0
+1544,apartments,Ruhrlandbogen,1,232.3,0.02,0,0
+1545,house,Tholshof,1,71.1,0.03,1,1
+1546,apartments,Deilbachtal,10,207.7,0.0,1,1
+1547,semidetached_house,Phönixberg,10,77.9,0.0,0,0
+1548,house,Priembergweg,10,142.9,0.0,0,0
+1549,apartments,Ruhrlandbogen,10,210.6,0.08,0,0
+1550,house,Tholshof,10,73.2,0.06,0,0
+1551,yes,Frauenstein,11,61.3,0.0,1,1
+1552,semidetached_house,Phönixberg,11,100.4,0.02,0,0
+1553,semidetached_house,Ruhrlandbogen,11,72.0,0.0,0,0
+1554,house,Tholshof,11,71.8,0.04,0,0
+1555,yes,Frauenstein,112a,70.0,0.0,0,0
+1556,yes,Frauenstein,114b,79.7,0.0,0,0
+1557,yes,Frauenstein,115,193.9,0.03,0,0
+1558,house,Frauenstein,116b,69.8,0.0,1,1
+1559,apartments,Deilbachtal,12,207.7,0.02,0,0
+1560,semidetached_house,Phönixberg,12,77.9,0.03,0,0
+1561,apartments,Ruhrlandbogen,12,210.8,0.04,1,1
+1562,yes,Frauenstein,13,63.4,0.0,0,0
+1563,semidetached_house,Phönixberg,13,100.3,0.02,0,0
+1564,semidetached_house,Ruhrlandbogen,13,72.1,0.0,0,0
+1565,house,Tholshof,13,65.4,0.0,0,0
+1566,yes,Frauenstein,137d,68.2,0.1,0,0
+1567,yes,Frauenstein,137f,74.3,0.0,0,0
+1568,apartments,Deilbachtal,14,179.5,0.0,0,0
+1569,semidetached_house,Phönixberg,14,79.5,0.04,0,0
+1570,yes,Priemhauser Weg,14,101.0,0.01,1,1
+1571,semidetached_house,Tholshof,14,72.9,0.03,0,0
+1572,yes,Frauenstein,15,63.5,0.0,0,0
+1573,yes,Oslenderstraße,15,54.5,0.0,0,0
+1574,semidetached_house,Phönixberg,15,100.4,0.0,0,0
+1575,house,Ruhrlandbogen,15,69.9,0.0,0,0
+1576,house,Tholshof,15,67.4,0.0,0,0
+1577,apartments,Deilbachtal,16,179.7,,0,0
+1578,semidetached_house,Phönixberg,16,79.5,0.03,0,0
+1579,yes,Priemhauser Weg,16,101.1,0.0,1,1
+1580,yes,Frauenstein,17,63.1,0.0,0,0
+1581,yes,Oslenderstraße,17,54.7,0.01,0,0
+1582,semidetached_house,Phönixberg,17,100.3,0.0,0,0
+1583,house,Ruhrlandbogen,17,69.9,0.0,1,1
+1584,house,Tholshof,17,65.3,0.0,0,0
+1585,apartments,Dilldorfer Straße,18,140.3,0.0,0,0
+1586,semidetached_house,Phönixberg,18,77.2,0.05,0,0
+1587,yes,Priemhauser Weg,18,94.7,0.09,1,1
+1588,yes,Oslenderstraße,19,54.6,0.0,0,0
+1589,semidetached_house,Phönixberg,19,100.4,0.0,0,0
+1590,house,Ruhrlandbogen,19,69.9,0.0,0,0
+1591,house,Tholshof,19,68.7,0.0,0,0
+1592,semidetached_house,Phönixberg,1a,72.7,0.0,0,0
+1593,detached,Hellersberg,1a,91.3,0.0,0,0
+1594,semidetached_house,Phönixberg,1b,72.6,0.01,0,0
+1595,semidetached_house,Phönixberg,1d,77.1,0.01,0,0
+1596,semidetached_house,Phönixberg,1f,74.1,0.0,0,0
+1597,house,Hellersberg,2,85.0,,0,0
+1598,semidetached_house,Tholshof,2,71.0,0.01,0,0
+1599,apartments,Dilldorfer Straße,20,101.0,0.0,0,0
+1600,apartments,Oslenderstraße,20,268.5,0.0,0,0
+1601,semidetached_house,Phönixberg,20,77.1,0.04,0,0
+1602,yes,Priemhauser Weg,20,94.7,0.08,0,0
+1603,yes,Deilbachtal,21,74.2,0.03,0,0
+1604,yes,Frauenstein,21,60.5,0.0,1,1
+1605,yes,Oslenderstraße,21,54.6,0.0,1,1
+1606,semidetached_house,Phönixberg,21,100.3,0.0,0,0
+1607,semidetached_house,Ruhrlandbogen,21,76.3,0.01,0,0
+1608,house,Tholshof,21,69.7,0.0,1,1
+1609,yes,Oslenderstraße,21a,113.6,0.13,0,1
+1610,residential,Asbachtal,22,190.5,0.05,0,0
+1611,semidetached_house,Phönixberg,22,74.2,0.0,0,0
+1612,semidetached_house,Priemhauser Weg,22,82.3,0.0,0,0
+1613,yes,Ruhrlandbogen,22,216.0,0.05,0,0
+1614,yes,Oslenderstraße,23,54.6,0.0,0,0
+1615,semidetached_house,Phönixberg,23,100.4,0.0,0,0
+1616,semidetached_house,Ruhrlandbogen,23,76.4,0.04,0,0
+1617,residential,Asbachtal,24,159.6,0.0,0,0
+1618,semidetached_house,Phönixberg,24,74.2,0.0,0,0
+1619,yes,Ruhrlandbogen,24,215.9,0.05,0,0
+1620,yes,Frauenstein,25,77.8,0.0,0,0
+1621,yes,Oslenderstraße,25,54.6,0.0,0,0
+1622,semidetached_house,Phönixberg,25,100.4,0.0,0,0
+1623,yes,Ruhrlandbogen,25,203.2,0.04,0,0
+1624,residential,Asbachtal,26,154.7,0.04,0,0
+1625,yes,Oslenderstraße,27,54.6,0.0,0,0
+1626,semidetached_house,Phönixberg,27,100.4,0.0,0,0
+1627,residential,Asbachtal,28,180.5,0.28,1,1
+1628,yes,Phönixberg,28,224.0,0.01,2,1
+1629,semidetached_house,Priemhauser Weg,28,94.6,0.04,0,0
+1630,yes,Ruhrlandbogen,28,211.7,0.05,0,0
+1631,yes,Frauenstein,29,60.7,0.0,0,0
+1632,yes,Oslenderstraße,29,54.6,0.0,1,1
+1633,semidetached_house,Phönixberg,29,100.3,0.03,0,0
+1634,apartments,Ruhrlandbogen,3,232.4,0.08,1,1
+1635,house,Tholshof,3,71.2,0.0,0,0
+1636,yes,Phönixberg,30,223.9,0.02,2,1
+1637,yes,Ruhrlandbogen,30,212.9,0.03,0,0
+1638,yes,Frauenstein,31,60.7,0.02,0,0
+1639,semidetached_house,Phönixberg,31,100.4,0.0,0,0
+1640,yes,Ruhrlandbogen,31,194.2,0.0,2,1
+1641,yes,Priemhauser Weg,32,92.9,0.03,0,0
+1642,yes,Ruhrlandbogen,32,212.9,0.02,0,0
+1643,yes,Frauenstein,33,54.9,0.0,2,1
+1644,yes,Phönixberg,33,74.9,0.01,0,0
+1645,yes,Ruhrlandbogen,33,194.1,0.05,0,0
+1646,apartments,Asbachtal,34,181.8,0.0,0,0
+1647,yes,Frauenstein,35,54.9,0.0,0,0
+1648,yes,Ruhrlandbogen,35,194.0,0.05,0,0
+1649,apartments,Asbachtal,36,146.9,0.0,0,0
+1650,semidetached_house,Priemhauser Weg,36,86.2,0.01,0,0
+1651,yes,Frauenstein,37,54.4,0.0,0,0
+1652,yes,Phönixberg,37,71.3,0.0,0,0
+1653,apartments,Asbachtal,38,146.9,0.53,1,3
+1654,house,Frauenstein,39,54.5,0.0,0,0
+1655,yes,Phönixberg,39,114.6,0.0,0,0
+1656,apartments,Dilldorfer Straße,4,159.1,0.0,0,0
+1657,house,Hellersberg,4,85.0,,0,0
+1658,yes,Phönixberg,4,211.8,0.03,1,1
+1659,apartments,Ruhrlandbogen,4,222.5,0.04,1,1
+1660,semidetached_house,Tholshof,4,71.0,0.01,0,0
+1661,yes,Asbachtal,40,93.0,0.0,0,0
+1662,house,Frauenstein,41,99.9,0.04,0,0
+1663,house,Phönixberg,41,74.4,0.0,0,0
+1664,yes,Asbachtal,42,93.1,0.11,1,1
+1665,house,Frauenstein,43,100.0,0.0,0,0
+1666,house,Phönixberg,43,74.4,0.0,2,1
+1667,yes,Asbachtal,44,97.5,0.02,0,0
+1668,industrial,Deilbachtal,45,1834.5,,0,0
+1669,house,Phönixberg,45,74.3,0.0,0,0
+1670,yes,Asbachtal,46,97.6,0.0,2,1
+1671,house,Phönixberg,47,74.4,0.0,0,0
+1672,yes,Asbachtal,48,89.5,0.0,1,1
+1673,house,Phönixberg,49,75.6,0.0,0,0
+1674,yes,Frauenstein,5,59.5,0.0,0,0
+1675,semidetached_house,Phönixberg,5,100.4,0.0,0,0
+1676,house,Tholshof,5,71.1,0.0,0,0
+1677,yes,Asbachtal,50,89.6,0.04,0,0
+1678,house,Phönixberg,51,75.5,0.0,0,0
+1679,house,Phönixberg,53,75.6,0.0,1,1
+1680,house,Dilldorfer Straße,55,138.4,0.0,0,0
+1681,house,Phönixberg,55,75.5,0.02,1,1
+1682,house,Dilldorfer Straße,57,132.2,0.02,0,0
+1683,semidetached_house,Phönixberg,57,77.1,0.01,0,0
+1684,semidetached_house,Phönixberg,59,77.1,0.0,1,1
+1685,apartments,Deilbachtal,6,216.1,0.06,0,0
+1686,apartments,Dilldorfer Straße,6,162.2,0.03,0,0
+1687,yes,Phönixberg,6,214.5,0.01,0,0
+1688,house,Priembergweg,6,156.7,0.0,0,0
+1689,apartments,Ruhrlandbogen,6,261.4,0.08,1,1
+1690,house,Tholshof,6,73.2,0.02,0,0
+1691,apartments,Dilldorfer Straße,61,215.4,0.0,0,0
+1692,house,Phönixberg,61,76.1,0.02,0,0
+1693,apartments,Dilldorfer Straße,63,215.4,,0,0
+1694,house,Phönixberg,63,76.1,0.0,1,1
+1695,house,Phönixberg,65,76.0,0.01,1,1
+1696,house,Phönixberg,67,76.1,0.02,0,0
+1697,house,Phönixberg,69,74.9,0.0,0,0
+1698,yes,Frauenstein,7,59.6,0.0,2,1
+1699,semidetached_house,Phönixberg,7,100.4,0.0,1,1
+1700,semidetached_house,Ruhrlandbogen,7,72.7,0.0,0,0
+1701,semidetached_house,Tholshof,7,71.7,0.01,0,0
+1702,house,Phönixberg,71,74.9,0.0,0,0
+1703,house,Phönixberg,73,74.8,0.0,0,0
+1704,house,Phönixberg,75,74.8,0.01,0,0
+1705,apartments,Deilbachtal,8,216.1,0.01,0,0
+1706,yes,Phönixberg,8,214.7,0.03,1,1
+1707,apartments,Ruhrlandbogen,8,210.8,0.06,0,0
+1708,house,Tholshof,8,73.1,0.02,0,0
+1709,yes,Frauenstein,84a,126.4,0.02,0,0
+1710,yes,Frauenstein,84b,37.9,0.0,0,0
+1711,yes,Frauenstein,84c,67.8,0.0,0,0
+1712,yes,Frauenstein,84d,43.0,0.0,1,1
+1713,yes,Frauenstein,86,117.9,0.0,0,0
+1714,apartments,Dilldorfer Straße,9,508.4,0.08,1,1
+1715,yes,Frauenstein,9,61.3,0.0,0,0
+1716,semidetached_house,Phönixberg,9,100.3,0.0,0,0
+1717,semidetached_house,Tholshof,9,71.6,0.0,0,0
+1718,yes,Frauenstein,92,107.8,0.0,0,0
+1719,house,Dixbäume,40-42,77.1,0.03,0,0
+1720,garages,,,93.0,0.36,0,2
+1721,garages,,,85.7,0.49,3,2
+1722,yes,,,308.3,0.05,0,0
+1723,yes,,,166.4,0.17,0,1
+1724,yes,Deilbachufer,12,83.3,0.0,0,0
+1725,semidetached_house,Möllneys Nocken,12,143.1,0.0,2,1
+1726,yes,Prinz-Wilhelm-Damm,18,140.9,0.49,1,2
+1727,yes,Prinz-Wilhelm-Damm,20,121.6,0.0,0,0
+1728,yes,Möllneyer Ufer,21,104.6,0.03,3,2
+1729,apartments,Kupferdreher Straße,220,197.6,0.0,5,3
+1730,apartments,Kupferdreher Straße,222,178.8,0.02,0,0
+1731,apartments,Kupferdreher Straße,223,135.7,0.04,3,2
+1732,apartments,Kupferdreher Straße,224,235.7,0.02,1,1
+1733,apartments,Kupferdreher Straße,225,160.5,0.06,2,1
+1734,apartments,Kupferdreher Straße,226,134.8,0.0,0,0
+1735,apartments,,,533.9,0.05,5,3
+1736,apartments,Kupferdreher Straße,233,84.1,0.0,0,0
+1737,yes,Kupferdreher Straße,261,89.4,0.0,0,0
+1738,apartments,Möllneyer Ufer,3,144.9,0.32,1,2
+1739,apartments,Dixbäume,30,85.6,0.0,0,0
+1740,apartments,Dixbäume,32,112.7,0.02,0,0
+1741,yes,Reulsbergweg,32,102.0,0.0,0,0
+1742,house,Dixbäume,34,111.0,0.0,0,0
+1743,house,Dixbäume,36,96.0,0.0,0,0
+1744,house,Dixbäume,38,76.9,0.0,0,0
+1745,yes,Deilbachbrücke,3,123.5,0.96,0,3
+1746,house,Dixbäume,40,77.7,0.08,0,0
+1747,house,Dixbäume,42,77.3,0.0,0,0
+1748,house,Dixbäume,44,80.9,0.0,0,0
+1749,semidetached_house,Dixbäume,46,87.1,0.0,0,0
+1750,semidetached_house,Dixbäume,48,87.2,0.0,0,0
+1751,semidetached_house,Dixbäume,50,76.3,0.0,0,0
+1752,semidetached_house,Dixbäume,52,76.8,0.0,0,0
+1753,semidetached_house,Dixbäume,54,98.6,0.2,0,1
+1754,house,Dixbäume,59a,74.2,0.0,2,1
+1755,house,Dixbäume,59b,74.2,0.0,2,1
+1756,house,Dixbäume,59c,74.3,0.0,2,1
+1757,house,Dixbäume,61a,74.3,0.01,0,0
+1758,house,Dixbäume,63a,70.4,0.0,2,1
+1759,house,Dixbäume,63b,71.4,0.0,2,1
+1760,yes,Möllneys Nocken,6a,98.4,0.0,2,1
+1761,yes,Deilbachbrücke,7,145.3,0.26,0,1
+1762,apartments,Prinz-Wilhelm-Damm,7,101.0,0.0,0,0
+1763,garage,Dixbäume,70,60.0,0.0,0,0
+1764,garage,Dixbäume,72,65.2,0.06,0,0
+1765,garage,Dixbäume,74,63.9,0.0,0,0
+1766,garage,Dixbäume,76,63.8,0.0,0,0
+1767,yes,Deilbachufer,8,84.5,0.02,0,0
+1768,house,Dixbäume,51c,92.7,0.0,1,1
+1769,garages,,,211.8,0.0,2,1
+1770,yes,Byfanger Straße,95,205.0,0.0,0,0
+1771,roof,,,80.2,0.0,0,0
+1772,apartments,Sandstraße,1,189.7,0.0,1,1
+1773,yes,Anstockstraße,10,157.7,0.0,0,0
+1774,apartments,Dixbäume,10,89.6,0.0,0,0
+1775,semidetached_house,Heidenreichberg,10,71.9,0.0,0,0
+1776,yes,Provesthöhe,10,75.1,0.0,1,1
+1777,yes,Sandstraße,10,74.1,0.08,3,2
+1778,yes,Wohlgemuthweg,10,134.6,0.0,2,1
+1779,house,Schliepersberg,102,104.9,0.0,0,0
+1780,house,Schliepersberg,106,102.5,0.0,0,0
+1781,house,Schliepersberg,108,104.3,0.0,0,0
+1782,apartments,Colsmanstraße,11,185.4,1.55,1,3
+1783,yes,Gillesweg,11,86.9,0.0,0,0
+1784,yes,Hinsbecker Berg,11,136.8,0.0,1,1
+1785,house,Zementstraße,11,64.9,0.01,0,0
+1786,house,Schliepersberg,110,120.6,0.0,0,0
+1787,yes,Schliepersberg,112,172.3,0.01,0,0
+1788,house,Schliepersberg,116,99.2,0.0,0,0
+1789,house,Schliepersberg,118,100.1,0.0,0,0
+1790,yes,Reulsbergweg,11e,95.9,0.0,1,1
+1791,yes,Bovermanns Kamp,12,107.9,0.01,1,1
+1792,apartments,Dixbäume,12,89.6,0.0,0,0
+1793,semidetached_house,Heidenreichberg,12,72.8,0.01,0,0
+1794,yes,Hinsbecker Berg,12,157.5,0.02,1,1
+1795,yes,Wohlgemuthweg,12,134.6,0.0,2,1
+1796,house,Schliepersberg,120,100.8,0.0,0,0
+1797,yes,Reulsbergweg,122,54.6,0.0,0,0
+1798,yes,Schliepersberg,122,163.6,0.0,0,0
+1799,yes,Reulsbergweg,128,123.4,0.04,2,1
+1800,apartments,Colsmanstraße,13,177.5,1.47,1,3
+1801,yes,Gillesweg,13,65.9,0.06,1,1
+1802,house,Zementstraße,13,61.6,0.13,0,1
+1803,yes,Bovermanns Kamp,14,89.7,0.01,0,0
+1804,apartments,Dixbäume,14,89.6,0.0,0,0
+1805,semidetached_house,Heidenreichberg,14,72.9,0.0,0,0
+1806,yes,Wohlgemuthweg,14,99.3,0.0,0,0
+1807,apartments,Colsmanstraße,15,144.8,1.37,1,3
+1808,apartments,Dixbäume,15,188.5,0.0,2,1
+1809,yes,Hinsbecker Berg,15,69.4,0.0,0,0
+1810,yes,Sandstraße,15,72.0,0.0,0,0
+1811,semidetached_house,Heidenreichberg,16,71.2,0.0,0,0
+1812,apartments,Hinsbecker Berg,16,151.0,0.0,0,0
+1813,yes,Reulsbergweg,16,70.5,0.0,0,0
+1814,yes,Wohlgemuthweg,16,99.2,0.0,1,1
+1815,apartments,Colsmanstraße,17,190.5,1.32,1,3
+1816,yes,Gillesweg,17,64.0,0.0,0,0
+1817,yes,Hinsbecker Berg,17,70.5,0.0,0,0
+1818,yes,Provesthöhe,17,214.5,0.08,0,0
+1819,yes,Sandstraße,17,72.7,0.0,0,0
+1820,yes,Reulsbergweg,17b,80.9,0.0,0,0
+1821,yes,Reulsbergweg,17c,82.4,0.0,0,0
+1822,yes,Reulsbergweg,17e,62.1,0.0,0,0
+1823,semidetached_house,Heidenreichberg,18,71.4,0.0,0,0
+1824,yes,Reulsbergweg,18,70.6,0.0,0,0
+1825,yes,Sandstraße,18,71.0,0.0,1,1
+1826,semidetached_house,Zementstraße,18,70.8,0.0,0,0
+1827,yes,Bovermanns Kamp,18a,99.6,0.0,0,0
+1828,semidetached_house,Schliepersberg,18a,75.7,0.0,0,0
+1829,semidetached_house,Schliepersberg,18b,75.8,0.0,0,0
+1830,yes,Gillesweg,19,64.3,0.0,0,0
+1831,yes,Hinsbecker Berg,19,70.3,0.0,0,0
+1832,yes,Sandstraße,19,70.8,0.0,2,1
+1833,yes,Gillesweg,2,104.5,0.02,0,0
+1834,yes,Provesthöhe,2,140.8,0.01,2,1
+1835,yes,Bovermanns Kamp,20,113.5,0.0,1,1
+1836,apartments,Dixbäume,20,170.3,0.1,0,1
+1837,semidetached_house,Heidenreichberg,20,72.3,0.0,0,0
+1838,yes,Sandstraße,20,71.1,0.0,0,0
+1839,semidetached_house,Zementstraße,20,68.5,0.0,1,1
+1840,semidetached_house,Schliepersberg,20a,79.1,0.0,0,0
+1841,semidetached_house,Schliepersberg,20b,79.2,0.0,0,0
+1842,yes,Gillesweg,21,65.6,0.0,0,0
+1843,yes,Hinsbecker Berg,21,67.2,0.0,0,0
+1844,yes,Reulsbergweg,21,81.3,0.0,0,0
+1845,yes,Sandstraße,21,71.3,0.0,2,1
+1846,semidetached_house,Heidenreichberg,22,72.4,0.03,0,0
+1847,yes,Sandstraße,22,91.3,0.0,0,0
+1848,apartments,,,260.6,0.0,0,0
+1849,semidetached_house,Schliepersberg,22a,64.2,0.1,0,1
+1850,semidetached_house,Schliepersberg,22b,64.2,0.09,0,0
+1851,semidetached_house,Benderstraße,23,73.3,0.28,0,1
+1852,yes,Gillesweg,23,67.7,0.0,0,0
+1853,yes,Sandstraße,23,70.6,0.0,2,1
+1854,semidetached_house,Heidenreichberg,24,74.1,0.0,0,0
+1855,yes,Provesthöhe,24,90.0,0.0,0,0
+1856,yes,Sandstraße,24,91.4,0.0,0,0
+1857,yes,Provesthöhe,24a,90.1,0.0,0,0
+1858,semidetached_house,Benderstraße,25,73.3,0.0,0,0
+1859,yes,Sandstraße,25,71.0,0.0,2,1
+1860,yes,Bovermanns Kamp,26,107.9,0.0,0,0
+1861,semidetached_house,Heidenreichberg,26,74.1,0.0,0,0
+1862,yes,Provesthöhe,26,90.1,0.0,0,0
+1863,yes,Sandstraße,26,83.8,0.0,0,0
+1864,yes,Zementstraße,26,66.3,0.0,0,0
+1865,semidetached_house,Benderstraße,27,72.2,0.0,0,0
+1866,yes,Sandstraße,28,83.9,0.0,0,0
+1867,yes,Zementstraße,28,75.1,0.0,0,0
+1868,yes,Kupferdreher Straße,285a,118.9,0.0,0,0
+1869,semidetached_house,Benderstraße,29,73.6,0.0,0,0
+1870,yes,Kupferdreher Straße,29,263.2,0.0,2,1
+1871,semidetached_house,Zementstraße,29,130.9,0.0,0,0
+1872,yes,Hinsbecker Hang,3,101.7,0.09,1,1
+1873,yes,Zementstraße,30,60.8,0.0,0,0
+1874,semidetached_house,Benderstraße,31,76.2,0.0,0,0
+1875,house,Heidenreichberg,31,115.3,0.05,0,0
+1876,semidetached_house,Zementstraße,31,82.6,0.0,0,0
+1877,yes,Bovermanns Kamp,32,104.4,0.0,0,0
+1878,semidetached_house,Benderstraße,33,76.1,0.0,0,0
+1879,house,Heidenreichberg,33,115.4,0.0,0,0
+1880,yes,Kupferdreher Straße,33,246.7,0.0,0,0
+1881,yes,Hinsbecker Berg,33a,165.0,0.01,0,0
+1882,yes,Zementstraße,34,64.9,0.0,0,0
+1883,house,Heidenreichberg,35,115.3,0.04,0,0
+1884,yes,Zementstraße,36,65.5,0.0,1,1
+1885,yes,Schliepersberg,36a,85.2,0.0,0,0
+1886,yes,Zementstraße,36a,71.5,0.0,1,1
+1887,semidetached_house,Zementstraße,37,70.4,0.0,0,0
+1888,house,Zementstraße,38,73.2,0.0,0,0
+1889,apartments,Dixbäume,39,151.0,0.0,3,2
+1890,semidetached_house,Zementstraße,39,109.1,0.0,0,0
+1891,yes,Anstockstraße,4,62.9,0.02,1,1
+1892,apartments,Dixbäume,4,89.6,0.0,0,0
+1893,yes,Gillesweg,4,99.7,0.0,0,0
+1894,yes,Hinsbecker Hang,4,84.0,0.0,1,1
+1895,apartments,Reulsbergweg,4,145.1,0.0,0,0
+1896,house,Zementstraße,40,70.8,0.0,0,0
+1897,apartments,Dixbäume,41,151.1,0.0,2,1
+1898,yes,Hinsbecker Berg,42,190.3,0.01,1,1
+1899,house,Zementstraße,42,72.2,0.0,0,0
+1900,house,Zementstraße,44,70.8,0.0,0,0
+1901,yes,Zementstraße,45,127.6,0.03,0,0
+1902,yes,Zementstraße,47,66.3,0.0,0,0
+1903,apartments,Zementstraße,48,166.8,0.0,0,0
+1904,apartments,Zementstraße,50,166.8,0.0,1,1
+1905,yes,Schliepersberg,50a,92.3,0.09,0,0
+1906,apartments,Zementstraße,51,172.4,0.0,3,2
+1907,semidetached_house,Dixbäume,51a,66.4,0.03,0,0
+1908,semidetached_house,Dixbäume,51b,66.4,0.02,0,0
+1909,yes,Hinsbecker Berg,52,125.9,0.0,1,1
+1910,detached,Dixbäume,53,198.5,0.03,1,1
+1911,yes,Hinsbecker Berg,56,160.5,0.01,1,1
+1912,semidetached_house,Schwermannstraße,57,100.5,0.0,0,0
+1913,yes,Schliepersberg,58,76.9,0.0,0,0
+1914,yes,Schliepersberg,58a,90.2,0.0,0,0
+1915,yes,Schliepersberg,58b,89.8,0.0,0,0
+1916,apartments,Kupferdreher Straße,59,154.8,0.13,1,1
+1917,house,Schliepersberg,59,92.0,0.01,0,0
+1918,semidetached_house,Schwermannstraße,59,93.5,0.03,0,0
+1919,apartments,Dixbäume,6,89.6,0.0,3,2
+1920,yes,Gillesweg,6,103.8,0.0,0,0
+1921,yes,Hinsbecker Hang,6,89.0,0.0,0,0
+1922,apartments,Reulsbergweg,6,122.1,0.0,0,0
+1923,yes,Schliepersberg,60,113.9,0.0,0,0
+1924,yes,Reulsbergweg,60a,59.3,0.0,0,0
+1925,retail,Kupferdreher Straße,61,330.7,0.08,1,1
+1926,house,Schliepersberg,63,92.1,0.0,0,0
+1927,apartments,Schwermannstraße,63,191.2,0.04,0,0
+1928,house,Schliepersberg,65,102.8,0.0,0,0
+1929,yes,Schliepersberg,67,143.5,0.15,0,1
+1930,apartments,Schwermannstraße,68,110.2,0.01,0,0
+1931,yes,Hinsbecker Hang,7,100.3,0.0,1,1
+1932,yes,Provesthöhe,7,76.5,0.0,0,0
+1933,yes,Schliepersberg,71,126.1,0.0,0,0
+1934,apartments,,,257.4,0.03,1,1
+1935,apartments,Kupferdreher Straße,73,140.1,0.1,1,1
+1936,apartments,Kupferdreher Straße,75,194.6,0.08,1,1
+1937,yes,Schliepersberg,75,102.5,0.0,0,0
+1938,apartments,Kupferdreher Straße,77,169.0,0.07,1,1
+1939,yes,Schliepersberg,77,116.1,0.0,0,0
+1940,apartments,Kupferdreher Straße,79,148.1,0.0,2,1
+1941,yes,Anstockstraße,8,101.1,0.03,0,0
+1942,apartments,Dixbäume,8,89.6,0.0,0,0
+1943,yes,Gillesweg,8,104.6,0.0,2,1
+1944,semidetached_house,Heidenreichberg,8,71.9,0.0,0,0
+1945,yes,Hinsbecker Berg,8,154.4,0.02,1,1
+1946,yes,Sandstraße,8,72.9,0.24,0,1
+1947,apartments,Kupferdreher Straße,81,136.5,0.0,2,1
+1948,apartments,Kupferdreher Straße,83,143.6,0.0,0,0
+1949,yes,Schliepersberg,83,81.9,0.0,0,0
+1950,apartments,Kupferdreher Straße,89,188.6,0.15,1,1
+1951,yes,Colsmanstraße,9,118.2,1.4,1,3
+1952,yes,Hinsbecker Hang,9,84.1,0.0,0,0
+1953,apartments,Narjesstraße,9,151.8,0.0,1,1
+1954,house,Zementstraße,9,66.0,0.04,0,0
+1955,apartments,Kupferdreher Straße,93-95,348.3,0.11,3,2
+1956,yes,Schliepersberg,95a,79.8,0.0,0,0
+1957,apartments,Kupferdreher Straße,97,161.4,0.1,3,2
+1958,garages,,,173.3,0.0,1,1
+1959,garages,,,151.7,0.0,2,1
+1960,yes,Marienbergstraße,1,100.0,0.09,0,0
+1961,yes,Bovermanns Weg,10,111.4,0.0,1,1
+1962,yes,Engelssiepen,10,93.2,0.0,0,0
+1963,yes,Grotehang,10,59.8,0.0,0,0
+1964,yes,Leibergweg,10,154.0,0.0,0,0
+1965,yes,Marienbergstraße,10,92.4,0.04,0,0
+1966,yes,Scharpenhang,10,131.3,0.01,0,0
+1967,yes,Byfanger Straße,102,196.4,0.0,0,0
+1968,house,Am Gerichtshaus,103,68.6,0.0,0,0
+1969,yes,Byfanger Straße,103,124.2,0.44,2,2
+1970,yes,Byfanger Straße,104,104.9,0.0,1,1
+1971,yes,Byfanger Straße,105,124.1,0.0,2,1
+1972,yes,Byfanger Straße,106,104.7,0.0,0,0
+1973,semidetached_house,Am Gerichtshaus,107,66.8,0.0,0,0
+1974,yes,Byfanger Straße,107,66.9,0.0,1,1
+1975,yes,Byfanger Straße,108,68.6,0.0,0,0
+1976,yes,Byfanger Straße,109,66.9,0.0,0,0
+1977,house,Brackmannhang,10a,63.1,0.03,1,1
+1978,house,Brackmannhang,10b,85.4,0.02,0,0
+1979,yes,Breddebuschhang,11,104.5,0.08,1,1
+1980,yes,Engelssiepen,11,122.3,0.04,0,0
+1981,yes,Leibergweg,11,143.1,0.0,0,0
+1982,residential,Schliepershang,11,142.5,0.0,0,0
+1983,yes,Byfanger Straße,110,68.6,0.0,0,0
+1984,yes,Byfanger Straße,112,68.5,0.0,0,0
+1985,yes,Byfanger Straße,113,79.0,0.0,0,0
+1986,yes,Byfanger Straße,114,68.6,0.0,0,0
+1987,yes,Byfanger Straße,116,132.4,0.0,1,1
+1988,yes,Byfanger Straße,117,119.0,0.0,0,0
+1989,yes,Byfanger Straße,118,121.3,0.14,0,1
+1990,yes,Niederweniger Straße,120,160.0,0.13,0,1
+1991,residential,,,195.3,0.15,1,1
+1992,yes,Niederweniger Straße,122b,77.7,0.01,0,0
+1993,yes,Byfanger Straße,124,57.7,0.0,1,1
+1994,yes,Niederweniger Straße,124b,73.7,0.0,0,0
+1995,yes,Byfanger Straße,125,65.6,0.0,0,0
+1996,yes,Byfanger Straße,126,57.6,0.0,1,1
+1997,yes,Niederweniger Straße,126b,75.9,0.0,1,1
+1998,yes,Byfanger Straße,127,65.6,0.0,0,0
+1999,yes,Byfanger Straße,128,104.3,0.04,1,1
+2000,yes,Byfanger Straße,129,65.6,0.0,0,0
+2001,house,Brackmannhang,12a,79.9,0.0,0,0
+2002,house,Brackmannhang,12b,78.8,0.0,0,0
+2003,yes,Breddebuschhang,13,80.6,0.0,1,1
+2004,yes,Engelssiepen,13,77.2,0.05,0,0
+2005,yes,Marienbergstraße,13,49.7,0.08,0,0
+2006,yes,Schliepershang,13,147.6,0.0,3,2
+2007,yes,Byfanger Straße,130,104.2,0.05,0,0
+2008,yes,Byfanger Straße,131,65.6,0.0,0,0
+2009,yes,Byfanger Straße,132,103.7,0.0,1,1
+2010,yes,Byfanger Straße,133,58.3,0.0,0,0
+2011,yes,Byfanger Straße,134,103.6,0.0,0,0
+2012,yes,Byfanger Straße,135,58.3,0.0,0,0
+2013,yes,Byfanger Straße,136,105.4,0.0,1,1
+2014,yes,Byfanger Straße,137,58.3,0.0,0,0
+2015,yes,Byfanger Straße,138,105.4,0.03,1,1
+2016,yes,Byfanger Straße,139,58.2,0.0,0,0
+2017,yes,Bovermanns Weg,14,65.8,0.0,1,1
+2018,house,Brackmannhang,14,73.9,0.0,1,1
+2019,yes,Leibergweg,14,129.1,0.0,1,1
+2020,yes,Marienbergstraße,14,123.6,0.01,1,1
+2021,yes,Byfanger Straße,140,73.5,0.0,1,1
+2022,yes,Byfanger Straße,141,65.1,0.0,0,0
+2023,yes,Byfanger Straße,143,65.1,0.0,0,0
+2024,yes,Byfanger Straße,144,149.2,0.0,1,1
+2025,yes,Byfanger Straße,145,65.0,0.0,0,0
+2026,yes,Byfanger Straße,147,65.0,0.0,0,0
+2027,yes,Byfanger Straße,148,58.5,0.02,1,1
+2028,yes,Beisemannhang,14a,70.8,0.0,0,0
+2029,yes,Beisemannhang,14b,70.9,0.0,0,0
+2030,yes,Breddebuschhang,15,132.4,0.02,0,0
+2031,yes,Engelssiepen,15,85.5,0.0,1,1
+2032,yes,Byfanger Straße,150,58.5,0.0,1,1
+2033,yes,Byfanger Straße,151,61.0,0.0,0,0
+2034,yes,Byfanger Straße,152,58.5,0.0,0,0
+2035,yes,Byfanger Straße,153,67.1,0.0,0,0
+2036,yes,Byfanger Straße,154,64.1,0.0,1,1
+2037,yes,Byfanger Straße,155,67.0,0.0,0,0
+2038,yes,Byfanger Straße,156,64.1,0.02,1,1
+2039,yes,Byfanger Straße,157,83.5,0.0,0,0
+2040,semidetached_house,Niederweniger Straße,159,78.7,0.0,0,0
+2041,yes,Bovermanns Weg,16,65.7,0.0,2,1
+2042,house,Brackmannhang,16,76.8,0.0,1,1
+2043,yes,Scharpenhang,16,57.3,0.0,0,0
+2044,yes,Byfanger Straße,160,117.3,0.0,0,0
+2045,yes,Byfanger Straße,161,66.4,0.0,0,0
+2046,yes,Byfanger Straße,163,65.4,0.0,0,0
+2047,yes,Niederweniger Straße,163,59.9,0.02,0,0
+2048,yes,Byfanger Straße,164,103.2,0.11,2,1
+2049,yes,Byfanger Straße,167,64.0,0.0,0,0
+2050,yes,Byfanger Straße,168,121.0,0.18,0,1
+2051,yes,Byfanger Straße,169,73.8,0.0,0,0
+2052,yes,Beisemannhang,16a,91.6,0.05,0,0
+2053,yes,Beisemannhang,16b,81.8,0.0,0,0
+2054,yes,Beisemannhang,17,109.0,0.0,0,0
+2055,yes,Bovermanns Weg,17,78.5,0.0,0,0
+2056,yes,Engelssiepen,17,97.8,0.03,1,1
+2057,yes,Marienbergstraße,17,65.7,0.0,0,0
+2058,yes,Schliepershang,17,135.5,0.0,0,0
+2059,yes,Byfanger Straße,170,55.9,0.0,0,0
+2060,yes,Byfanger Straße,172,55.9,0.0,0,0
+2061,yes,Byfanger Straße,175,93.2,0.31,0,2
+2062,yes,Byfanger Straße,176,91.5,0.0,1,1
+2063,yes,Byfanger Straße,177,71.9,0.06,0,0
+2064,yes,Byfanger Straße,179,64.3,0.0,0,0
+2065,house,Brackmannhang,18,76.4,0.01,0,0
+2066,yes,Byfanger Straße,180,75.6,0.05,0,0
+2067,yes,Byfanger Straße,183,56.5,0.0,0,0
+2068,yes,Byfanger Straße,185,59.7,0.0,0,0
+2069,yes,Byfanger Straße,187,59.7,0.0,0,0
+2070,yes,Byfanger Straße,188,70.5,0.0,0,0
+2071,yes,Byfanger Straße,189,59.6,0.0,0,0
+2072,yes,Leibergweg,18a,74.1,0.0,1,1
+2073,yes,Leibergweg,18b,79.7,0.0,0,0
+2074,yes,Beisemannhang,19,109.1,0.0,0,0
+2075,yes,Bovermanns Weg,19,78.4,0.0,0,0
+2076,yes,Marienbergstraße,19,64.5,0.0,0,0
+2077,yes,Scharpenhang,19,88.7,0.0,0,0
+2078,yes,Byfanger Straße,190,65.2,0.17,0,1
+2079,yes,Byfanger Straße,191,59.7,0.0,0,0
+2080,yes,Byfanger Straße,192,137.3,0.62,1,3
+2081,semidetached_house,Am Gerichtshaus,1a,163.3,0.0,0,0
+2082,semidetached_house,Am Gerichtshaus,1b,163.2,1.2,0,3
+2083,yes,Schliepershang,1b,96.9,0.0,1,1
+2084,yes,Breddebuschhang,2,160.7,0.0,0,0
+2085,yes,Engelssiepen,2,155.5,0.04,0,0
+2086,yes,Marienbergstraße,2,65.4,0.0,0,0
+2087,yes,Hirtental,20,71.5,0.0,0,0
+2088,yes,Leibergweg,20,107.3,0.18,0,1
+2089,yes,Marienbergstraße,20,104.5,0.0,0,0
+2090,yes,Scharpenhang,20,68.9,0.0,0,0
+2091,yes,Byfanger Straße,205,53.0,0.0,0,0
+2092,yes,Byfanger Straße,207,52.9,0.0,2,1
+2093,yes,Byfanger Straße,209,56.1,0.0,0,0
+2094,yes,Bovermanns Weg,21,149.6,0.0,0,0
+2095,yes,Engelssiepen,21,58.8,0.0,0,0
+2096,yes,Scharpenhang,21,137.0,0.0,0,0
+2097,yes,Schliepershang,21,131.5,0.0,1,1
+2098,yes,Byfanger Straße,211,56.1,0.0,0,0
+2099,yes,Byfanger Straße,213,49.7,0.0,0,0
+2100,yes,Byfanger Straße,215,49.6,0.0,0,0
+2101,yes,Byfanger Straße,219,48.0,0.0,0,0
+2102,house,Brackmannhang,22,102.8,0.07,1,1
+2103,yes,Hirtental,22,67.1,0.0,0,0
+2104,yes,Scharpenhang,22,65.4,0.04,0,0
+2105,yes,Byfanger Straße,220,97.0,0.0,1,1
+2106,yes,Byfanger Straße,223,54.2,0.0,0,0
+2107,yes,Byfanger Straße,223a,97.9,0.04,0,0
+2108,yes,Byfanger Straße,225,64.2,0.0,0,0
+2109,yes,Byfanger Straße,225a,64.2,0.0,0,0
+2110,yes,Byfanger Straße,227,64.3,0.0,0,0
+2111,yes,Byfanger Straße,229,50.5,0.0,0,0
+2112,yes,Fahrenberg,22f,85.9,0.0,0,0
+2113,yes,An den Friedhöfen,23,85.5,0.0,0,0
+2114,yes,Engelssiepen,23,58.7,0.0,0,0
+2115,yes,Byfanger Straße,231,50.6,0.0,0,0
+2116,yes,Byfanger Straße,233,50.5,0.0,0,0
+2117,yes,Byfanger Straße,235,50.5,0.0,0,0
+2118,yes,Byfanger Straße,239,54.3,0.0,0,0
+2119,house,Brackmannhang,24,102.8,0.0,1,1
+2120,yes,Hirtental,24,74.2,0.0,0,0
+2121,yes,Byfanger Straße,243,122.2,0.0,4,3
+2122,yes,Byfanger Straße,246,112.8,2.04,4,3
+2123,yes,Engelssiepen,25,58.8,0.0,0,0
+2124,yes,Scharpenhang,25,100.1,0.58,1,3
+2125,house,Brackmannhang,26,102.8,0.01,0,0
+2126,yes,Scharpenhang,26,94.9,0.03,1,1
+2127,yes,Engelssiepen,27,58.8,0.08,0,0
+2128,yes,Niederweniger Straße,27,81.0,0.0,0,0
+2129,yes,Bovermanns Weg,27a,92.6,0.0,0,0
+2130,yes,Bovermanns Weg,28,169.6,0.03,0,0
+2131,house,Brackmannhang,28,102.8,0.0,0,0
+2132,yes,Bovermanns Weg,29,68.3,0.0,0,0
+2133,yes,Scharpenhang,29,84.9,0.05,0,0
+2134,apartments,Breddebuschhang,3,106.2,0.0,1,1
+2135,yes,Hirtental,3,113.1,1.13,2,3
+2136,yes,Marienbergstraße,3,100.0,0.01,0,0
+2137,yes,Bovermanns Weg,30,169.6,0.01,0,0
+2138,residential,Hirtental,30,48.2,0.01,0,0
+2139,yes,Scharpenhang,30,61.8,0.0,0,0
+2140,yes,Schliepersberg,30a,117.8,0.0,0,0
+2141,yes,An den Friedhöfen,31,89.1,0.07,0,0
+2142,yes,Schliepersberg,32a,132.0,0.09,0,0
+2143,residential,,,126.8,,0,0
+2144,yes,Provesthöhe,33,56.9,0.32,2,2
+2145,yes,Engelssiepen,33,116.4,0.06,0,0
+2146,yes,Provesthöhe,34,54.3,0.0,1,1
+2147,yes,Bovermanns Weg,34,103.9,0.01,1,1
+2148,yes,Schliepersberg,34a,108.1,0.0,0,0
+2149,yes,Am Gerichtshaus,35,114.6,0.0,0,0
+2150,yes,Provesthöhe,35,56.9,0.0,2,1
+2151,yes,Scharpenhang,35,122.2,0.07,1,1
+2152,yes,An den Friedhöfen,36,73.4,0.0,0,0
+2153,yes,Provesthöhe,36,54.3,0.0,0,0
+2154,yes,Am Gerichtshaus,37,105.4,0.0,2,1
+2155,yes,Provesthöhe,37,56.9,0.0,2,1
+2156,yes,Hirtental,37,128.6,,0,0
+2157,yes,Scharpenhang,37,134.4,0.01,0,0
+2158,yes,An den Friedhöfen,38,90.2,0.0,0,0
+2159,yes,Provesthöhe,38,54.2,0.0,0,0
+2160,yes,Am Gerichtshaus,39,113.0,0.09,2,1
+2161,yes,Provesthöhe,39,56.9,0.02,2,1
+2162,yes,Marienbergstraße,4,65.4,0.01,0,0
+2163,house,,,86.9,0.39,0,2
+2164,yes,An den Friedhöfen,40,64.7,0.0,0,0
+2165,yes,Provesthöhe,40,54.3,0.06,0,0
+2166,yes,Bovermanns Weg,40,291.0,0.02,0,0
+2167,house,Am Gerichtshaus,42,72.4,0.09,0,0
+2168,yes,An den Friedhöfen,42,105.1,0.0,1,1
+2169,yes,Niederweniger Straße,42a,140.6,0.0,4,3
+2170,yes,Am Gerichtshaus,43,122.7,0.04,2,1
+2171,yes,Bovermanns Weg,44,140.6,0.1,0,0
+2172,apartments,,,111.5,0.15,0,1
+2173,house,Am Gerichtshaus,46,70.8,0.0,0,0
+2174,yes,An den Friedhöfen,46,73.3,0.0,0,0
+2175,yes,Niederweniger Straße,46,90.9,0.0,1,1
+2176,apartments,,,87.1,0.0,0,0
+2177,apartments,,,86.2,0.0,0,0
+2178,yes,Hirtental,5,247.8,1.84,4,3
+2179,yes,Leibergweg,5,118.7,0.0,0,0
+2180,semidetached_house,Marienbergstraße,5,83.2,0.01,0,0
+2181,house,Am Gerichtshaus,50,74.5,0.0,1,1
+2182,apartments,,,86.2,0.0,0,0
+2183,house,Am Gerichtshaus,54,72.2,0.0,1,1
+2184,yes,Niederweniger Straße,54,128.7,0.01,0,0
+2185,house,Am Gerichtshaus,55,105.1,0.39,3,2
+2186,house,Am Gerichtshaus,56,69.0,0.0,0,0
+2187,house,Am Gerichtshaus,56a,71.2,0.0,0,0
+2188,house,Am Gerichtshaus,57,99.4,0.63,3,3
+2189,house,Am Gerichtshaus,58,69.7,0.0,0,0
+2190,house,Am Gerichtshaus,59,103.3,0.42,1,2
+2191,house,Breddebuschhang,5a,76.4,0.0,0,0
+2192,yes,Schliepershang,5a,82.3,0.0,0,0
+2193,yes,Schliepershang,5b,82.7,0.0,0,0
+2194,house,Breddebuschhang,5c,97.3,0.07,1,1
+2195,yes,Engelssiepen,6,63.1,0.0,0,0
+2196,yes,Grotehang,6,61.1,0.0,0,0
+2197,yes,Marienbergstraße,6,73.8,0.0,0,0
+2198,house,,,87.9,0.3,0,2
+2199,house,Am Gerichtshaus,63,101.7,0.01,1,1
+2200,house,Am Gerichtshaus,65,102.5,0.0,0,0
+2201,house,Am Gerichtshaus,67,102.9,0.0,0,0
+2202,apartments,Am Gerichtshaus,71,262.9,0.0,0,0
+2203,yes,Niederweniger Straße,71,84.4,0.0,1,1
+2204,apartments,Am Gerichtshaus,73,355.7,0.22,0,1
+2205,yes,Niederweniger Straße,78,135.1,0.0,1,1
+2206,yes,Niederweniger Straße,79,140.9,0.12,0,1
+2207,yes,Breddebuschhang,7a,73.0,0.0,0,0
+2208,yes,Grotehang,8,58.8,0.14,0,1
+2209,yes,Leibergweg,8,80.3,0.0,0,0
+2210,house,,,87.2,0.24,0,1
+2211,yes,Niederweniger Straße,80,101.5,0.0,0,0
+2212,yes,Niederweniger Straße,81a,210.7,0.02,0,0
+2213,yes,Niederweniger Straße,84,143.6,0.0,0,0
+2214,yes,Niederweniger Straße,85b,206.2,0.01,0,0
+2215,yes,Beisemannhang,8a,111.6,0.05,0,0
+2216,yes,Beisemannhang,8b,111.7,0.0,0,0
+2217,semidetached_house,Marienbergstraße,9,118.0,0.0,0,0
+2218,residential,Schliepershang,9-9a,151.3,0.0,1,1
+2219,house,Am Gerichtshaus,91,66.0,0.0,0,0
+2220,house,Am Gerichtshaus,95,67.2,0.0,0,0
+2221,yes,Byfanger Straße,96,151.9,0.0,2,1
+2222,yes,Byfanger Straße,98,151.8,0.04,2,1
+2223,house,Am Gerichtshaus,99,71.7,0.0,0,0
+2224,yes,Byfanger Straße,99,99.6,0.33,0,2
+2225,yes,Dixbäume,9a,88.6,0.0,0,0
+2226,yes,,,197.4,0.01,0,0
+2227,semidetached_house,Marienbergstraße,62,165.0,0.09,0,0
+2228,yes,Blockstraße,1,88.6,0.05,0,0
+2229,yes,Marienberghang,1,95.9,0.05,0,0
+2230,yes,Blockstraße,10,81.0,1.54,1,3
+2231,yes,Marienberghang,11,101.4,0.0,0,0
+2232,yes,Bissenkamp,12,81.2,0.0,1,1
+2233,yes,Blockstraße,13,48.0,0.0,0,0
+2234,yes,Marienberghang,13,86.9,0.01,0,0
+2235,yes,Blockstraße,14,49.2,1.36,1,3
+2236,apartments,Kupferdreher Straße,140,149.6,0.0,0,0
+2237,yes,Blockstraße,15,54.7,0.27,0,1
+2238,yes,Marienberghang,15,87.0,0.03,0,0
+2239,yes,Bissenkamp,16,96.1,0.0,0,0
+2240,yes,Blockstraße,16,95.8,0.57,2,3
+2241,yes,Blockstraße,17,66.4,0.0,3,2
+2242,yes,Marienberghang,17,99.9,0.01,0,0
+2243,yes,Bissenkamp,18,81.4,0.02,0,0
+2244,yes,Blockstraße,18,57.9,0.1,1,1
+2245,yes,Marienberghang,19,99.8,0.04,0,0
+2246,yes,Blockstraße,2,78.4,0.0,0,0
+2247,yes,Blockstraße,21,78.8,0.51,3,3
+2248,semidetached_house,Marienbergstraße,21,55.3,0.04,2,1
+2249,house,Bissenkamp,22,101.0,0.0,0,0
+2250,yes,Blockstraße,22,53.2,0.0,0,0
+2251,semidetached_house,Marienbergstraße,22,64.3,0.0,0,0
+2252,yes,Blockstraße,23,54.8,0.0,0,0
+2253,house,Bissenkamp,24,78.4,0.0,0,0
+2254,yes,Blockstraße,24,119.1,0.0,1,1
+2255,yes,Marienbergstraße,25,116.4,0.0,0,0
+2256,yes,Blockstraße,26,111.2,0.0,0,0
+2257,semidetached_house,Marienbergstraße,26,76.6,0.0,0,0
+2258,yes,Blockstraße,27,122.1,0.0,0,0
+2259,yes,Marienbergstraße,29,65.0,0.0,0,0
+2260,yes,Gasstraße,2b,348.6,0.04,2,1
+2261,yes,Bissenkamp,3,66.6,0.0,0,0
+2262,yes,Marienberghang,3,95.8,0.0,0,0
+2263,yes,Fahrenberg,30,75.9,0.01,0,0
+2264,yes,Marienbergstraße,30,58.5,0.0,0,0
+2265,yes,Fahrenberg,30a,95.2,0.04,0,0
+2266,yes,Fahrenberg,30b,65.4,0.0,0,0
+2267,yes,Fahrenberg,30c,91.5,0.0,0,0
+2268,yes,Blockstraße,31,199.0,0.04,0,0
+2269,yes,Scharpenhang,"32,32a",229.8,2.4,4,3
+2270,yes,Marienbergstraße,33,58.9,0.0,0,0
+2271,yes,Blockstraße,34,235.5,0.02,0,0
+2272,semidetached_house,Marienbergstraße,34,63.6,0.0,0,0
+2273,yes,Blockstraße,35,196.7,0.01,0,0
+2274,yes,Blockstraße,36,212.9,0.04,0,0
+2275,yes,Scharpenhang,"36,36a",174.7,0.0,0,0
+2276,yes,Blockstraße,37,196.7,0.05,0,0
+2277,yes,Marienbergstraße,37,104.3,0.05,0,0
+2278,yes,Blockstraße,38,212.9,0.0,0,0
+2279,semidetached_house,Marienbergstraße,38,54.6,0.0,0,0
+2280,yes,Scharpenhang,"38,38a",163.9,0.0,0,0
+2281,yes,Bissenkamp,4,100.0,0.0,0,0
+2282,yes,Gasstraße,4,93.7,0.0,0,0
+2283,yes,Blockstraße,40,220.1,0.12,0,1
+2284,yes,Marienbergstraße,41,65.2,0.03,2,1
+2285,yes,Marienbergstraße,42,124.8,0.0,0,0
+2286,house,Scharpenhang,44,93.3,0.02,0,0
+2287,house,Scharpenhang,44a,74.3,0.13,0,1
+2288,yes,Marienbergstraße,45,57.0,0.0,0,0
+2289,house,Scharpenhang,46a,92.8,0.01,0,0
+2290,yes,Marienbergstraße,47,103.4,0.0,1,1
+2291,yes,Marienbergstraße,48,234.0,0.02,3,2
+2292,house,Scharpenhang,48,88.7,0.0,0,0
+2293,house,Marienbergstraße,48a,137.6,0.0,0,0
+2294,house,Scharpenhang,48a,79.9,0.0,0,0
+2295,yes,Marienbergstraße,49,64.3,0.0,0,0
+2296,yes,Marienbergstraße,49a,73.3,0.01,2,1
+2297,yes,Blockstraße,5,61.3,0.0,0,0
+2298,yes,Marienberghang,5,98.3,0.01,0,0
+2299,yes,Fahrenberg,50,170.4,0.02,0,0
+2300,house,Marienbergstraße,50,117.8,0.01,0,0
+2301,house,Scharpenhang,50,70.7,0.0,0,0
+2302,house,Scharpenhang,50a,89.5,0.0,0,0
+2303,yes,Marienbergstraße,51,96.1,0.04,0,0
+2304,house,Scharpenhang,52,105.5,0.15,0,1
+2305,yes,Marienbergstraße,53,99.6,0.0,0,0
+2306,semidetached_house,Marienbergstraße,54,79.9,0.0,0,0
+2307,house,Scharpenhang,54,74.9,0.11,0,1
+2308,house,Scharpenhang,54a,78.6,0.0,0,0
+2309,house,Scharpenhang,56,70.2,0.0,0,0
+2310,house,Scharpenhang,56a,83.9,0.0,0,0
+2311,yes,Marienbergstraße,57,73.8,0.0,0,0
+2312,semidetached_house,Marienbergstraße,58,85.8,0.0,0,0
+2313,house,Scharpenhang,58,85.4,0.0,0,0
+2314,house,Scharpenhang,58a,87.7,0.02,0,0
+2315,yes,Blockstraße,6,56.2,0.27,1,1
+2316,yes,Gasstraße,6,57.2,0.18,0,1
+2317,yes,Marienbergstraße,61,58.7,0.0,0,0
+2318,house,Scharpenhang,62,129.8,0.26,0,1
+2319,house,Scharpenhang,64,106.2,0.32,0,2
+2320,yes,Marienbergstraße,65,60.7,0.0,0,0
+2321,house,Scharpenhang,66,105.8,0.34,1,2
+2322,house,Scharpenhang,68,118.8,0.35,1,2
+2323,yes,Marienbergstraße,69a,63.0,0.29,0,1
+2324,yes,Blockstraße,7,61.3,0.01,0,0
+2325,yes,Marienberghang,7,98.2,0.05,0,0
+2326,house,Scharpenhang,70,109.4,0.34,2,2
+2327,house,Scharpenhang,72,103.7,0.3,1,1
+2328,yes,Blockstraße,8,56.1,0.35,1,2
+2329,yes,Gasstraße,8,118.8,0.37,0,2
+2330,yes,Marienbergstraße,82,242.2,0.0,2,1
+2331,yes,Blockstraße,9,78.6,0.02,0,0
+2332,yes,Marienberghang,9,101.4,0.0,0,0
+2333,semidetached_house,Deilmannshof,9,93.7,,0,0
+2334,yes,Schliepershang,1a,105.0,0.0,0,0
+2335,garage,,,18.0,0.0,0,0
+2336,garage,,,78.4,0.0,0,0
+2337,shed,,,151.5,0.0,0,0
+2338,yes,,,106.0,0.0,0,0
+2339,residential,Dilldorfer Straße,15,136.7,0.37,3,2
+2340,residential,Dilldorfer Straße,17,138.0,1.21,3,3
+2341,yes,Frauenstein,112b,68.7,0.0,1,1
+2342,yes,Frauenstein,114a,81.7,0.0,0,0
+2343,yes,Frauenstein,116a,70.0,0.0,1,1
+2344,roof,,,531.3,0.42,6,3
+2345,yes,,,51.9,0.0,2,1
+2346,garages,,,58.4,0.0,0,0
+2347,garages,,,56.6,0.01,1,1
+2348,yes,Grunsbeckhof,1,57.6,,0,0
+2349,yes,Grunsbeckhof,10,248.5,,0,0
+2350,yes,Grunsbeckhof,2,59.8,0.0,0,0
+2351,yes,Grunsbeckhof,3,40.3,,0,0
+2352,yes,Grunsbeckhof,4,39.9,0.0,0,0
+2353,yes,Grunsbeckhof,5,58.1,,0,0
+2354,yes,Grunsbeckhof,6,57.0,0.0,0,0
+2355,yes,Grunsbeckhof,7,44.4,,0,0
+2356,detached,Grunsbeckhof,8,244.6,,0,0
+2357,yes,Grunsbeckhof,9,57.7,,0,0
+2358,yes,,,6.0,3.56,0,3
+2359,yes,,,11.4,3.51,0,3
+2360,residential,Dixbäume,7d,102.3,0.0,0,0
+2361,yes,,,340.2,0.0,0,0
+2362,yes,Byfanger Straße,261,93.3,0.0,0,0
+2363,yes,,,174.8,0.0,0,0
+2364,yes,,,103.6,0.24,0,1
+2365,yes,,,53.9,0.0,0,0
+2366,yes,,,37.2,0.0,0,0
+2367,yes,,,138.7,0.11,1,1
+2368,yes,,,23.0,0.0,0,0
+2369,yes,,,21.0,0.05,0,0
+2370,yes,,,21.1,0.0,0,0
+2371,yes,,,2.6,0.0,0,0
+2372,yes,,,36.9,0.0,0,0
+2373,yes,,,32.8,0.0,0,0
+2374,yes,,,40.5,0.0,0,0
+2375,yes,,,66.2,0.0,0,0
+2376,yes,,,24.5,0.0,0,0
+2377,yes,,,16.4,0.07,0,0
+2378,yes,,,29.0,0.04,0,0
+2379,yes,,,57.6,0.0,0,0
+2380,yes,,,31.5,0.0,0,0
+2381,yes,,,57.7,0.05,1,1
+2382,yes,,,8.1,0.0,0,0
+2383,yes,,,38.8,0.0,0,0
+2384,yes,,,135.3,0.0,0,0
+2385,yes,,,23.5,0.0,0,0
+2386,yes,,,23.6,,0,0
+2387,yes,,,26.7,,0,0
+2388,yes,,,23.7,0.0,0,0
+2389,yes,,,27.0,0.0,0,0
+2390,yes,Am Gerichtshaus,41,43.3,0.0,2,1
+2391,yes,,,68.6,0.01,0,0
+2392,yes,,,65.4,0.03,0,0
+2393,yes,,,64.9,0.03,0,0
+2394,yes,,,65.0,0.05,0,0
+2395,yes,,,64.8,0.03,0,0
+2396,yes,,,65.0,0.06,0,0
+2397,yes,,,65.5,0.0,0,0
+2398,yes,,,65.1,0.02,0,0
+2399,yes,,,65.6,0.01,0,0
+2400,semidetached_house,Am Seebogen,35,66.2,0.0,0,0
+2401,semidetached_house,Am Seebogen,39,66.3,0.0,0,0
+2402,semidetached_house,Am Seebogen,43,66.2,0.0,0,0
+2403,semidetached_house,Am Seebogen,47,66.1,0.0,0,0
+2404,semidetached_house,Am Seebogen,51,66.1,0.0,0,0
+2405,semidetached_house,Am Seebogen,55,66.1,0.0,0,0
+2406,yes,,,8.9,0.04,0,0
+2407,yes,,,11.3,0.0,0,0
+2408,yes,,,11.7,0.0,0,0
+2409,garage,,,17.9,0.0,0,0
+2410,yes,,,11.5,0.0,0,0
+2411,yes,,,8.9,0.04,0,0
+2412,yes,,,11.4,0.0,0,0
+2413,garage,,,17.8,0.0,0,0
+2414,yes,,,11.2,0.0,0,0
+2415,garage,,,17.8,0.0,0,0
+2416,yes,,,8.9,0.0,0,0
+2417,yes,,,8.8,0.0,0,0
+2418,yes,,,11.5,0.0,0,0
+2419,garage,,,17.8,0.01,0,0
+2420,yes,,,11.7,0.0,0,0
+2421,yes,,,11.6,0.0,0,0
+2422,yes,,,17.8,0.06,0,0
+2423,yes,,,8.9,0.0,0,0
+2424,garage,,,17.8,0.01,0,0
+2425,yes,,,11.2,0.0,0,0
+2426,yes,,,23.7,0.0,0,0
+2427,garage,,,18.0,0.02,0,0
+2428,yes,,,23.5,,0,0
+2429,garage,,,17.9,0.0,0,0
+2430,garage,,,26.8,0.03,0,0
+2431,garage,,,26.7,,0,0
+2432,yes,,,8.9,0.03,0,0
+2433,yes,,,11.6,0.0,0,0
+2434,garage,,,26.8,0.0,0,0
+2435,garage,,,18.0,0.0,0,0
+2436,yes,,,27.2,0.0,0,0
+2437,garage,,,26.9,0.0,0,0
+2438,yes,,,23.5,0.0,0,0
+2439,garage,,,27.2,0.01,0,0
+2440,yes,Dilldorfer Allee,5d,51.9,0.0,0,0
+2441,apartments,Kupferdreher Markt,10,155.4,0.0,1,1
+2442,yes,,,45.3,0.0,0,0
+2443,yes,,,16.0,0.0,1,1
+2444,yes,,,48.8,0.0,1,1
+2445,yes,Bovermanns Weg,22,102.9,0.02,0,0
+2446,yes,,,54.7,0.26,0,1
+2447,yes,,,568.8,0.67,0,3
+2448,yes,,,41.4,0.23,0,1
+2449,yes,,,42.0,0.33,0,2
+2450,yes,Deilbachbrücke,1,125.3,1.02,1,3
+2451,yes,Deilbachbrücke,4,194.7,0.0,1,1
+2452,apartments,Möllneyer Ufer,15,299.8,0.03,0,0
+2453,yes,,,87.9,0.31,4,3
+2454,yes,,,227.0,0.51,1,3
+2455,yes,,,130.7,0.28,1,1
+2456,yes,,,144.0,0.01,0,0
+2457,yes,,,4.7,0.06,0,0
+2458,yes,,,15.0,0.0,0,0
+2459,yes,,,45.5,0.83,4,3
+2460,yes,,,26.0,0.03,0,0
+2461,yes,,,31.1,0.0,3,2
+2462,yes,,,90.5,0.28,4,3
+2463,yes,,,44.1,0.0,0,0
+2464,yes,Kupferdreher Straße,250a,66.7,0.5,1,3
+2465,yes,,,30.1,0.0,0,0
+2466,yes,,,76.8,0.0,0,0
+2467,yes,Dilldorfer Straße,25,89.7,0.0,0,0
+2468,yes,,,32.2,0.0,0,0
+2469,yes,,,54.6,0.0,0,0
+2470,yes,,,31.7,0.0,0,0
+2471,yes,Dixbäume,87b,79.2,0.0,2,1
+2472,yes,Eisenhammerweg,25b,57.0,0.0,0,0
+2473,yes,,,2376.8,0.39,1,2
+2474,yes,Gasstraße,14,103.0,0.0,0,0
+2475,yes,Gillesweg,3,96.7,0.0,0,0
+2476,yes,,,33.6,0.01,0,0
+2477,yes,,,35.1,0.0,2,1
+2478,yes,,,23.3,0.0,0,0
+2479,yes,Grotestraße,4c,79.6,0.0,0,0
+2480,school,,,11.6,0.0,1,1
+2481,school,,,9.4,0.0,0,0
+2482,yes,,,120.9,0.0,0,0
+2483,yes,Am Wieselbach,11,156.1,,0,0
+2484,yes,Byfanger Straße,259,92.6,0.0,0,0
+2485,garage,,,16.8,0.0,0,0
+2486,yes,,,24.0,0.0,2,1
+2487,garage,,,61.3,0.07,4,3
+2488,yes,Dixbäume,1,52.8,0.24,4,3
+2489,garage,,,41.5,0.0,1,1
+2490,garage,,,18.0,0.0,1,1
+2491,garage,,,20.2,0.0,0,0
+2492,garage,,,29.7,0.0,0,0
+2493,garage,,,20.4,0.0,0,0
+2494,garage,,,22.9,0.0,0,0
+2495,yes,,,26.7,0.04,1,1
+2496,garage,,,37.0,0.0,0,0
+2497,garage,,,32.6,0.27,0,1
+2498,garage,,,33.8,0.07,0,0
+2499,yes,Hinsbecker Löh,7b,82.5,0.37,5,3
+2500,yes,,,74.5,0.04,0,0
+2501,yes,Kampmannbrücke,11,63.4,0.0,0,0
+2502,yes,,,45.4,0.11,0,1
+2503,yes,Kampmannbrücke,35,70.4,0.0,0,0
+2504,yes,,,98.8,0.03,0,0
+2505,yes,,,95.0,0.0,0,0
+2506,yes,,,38.5,0.03,0,0
+2507,yes,,,61.5,0.0,0,0
+2508,yes,,,42.1,0.04,0,0
+2509,yes,,,23.6,0.0,0,0
+2510,yes,Leibergweg,9a,45.0,0.0,0,0
+2511,yes,Marienbergstraße,80a,90.6,0.0,2,1
+2512,yes,Nierenhofer Straße,6,190.2,,0,0
+2513,yes,,,54.2,0.0,0,0
+2514,yes,,,296.4,1.29,1,3
+2515,yes,,,19.0,0.0,0,0
+2516,yes,,,36.4,0.0,0,0
+2517,yes,,,21.2,0.0,0,0
+2518,yes,,,40.6,0.0,1,1
+2519,yes,,,22.0,0.0,1,1
+2520,yes,,,64.6,0.03,2,1
+2521,industrial,,,315.0,0.01,0,0
+2522,industrial,,,291.4,0.12,1,1
+2523,yes,,,80.8,0.0,3,2
+2524,yes,,,420.8,0.07,3,2
+2525,yes,,,200.5,0.14,0,1
+2526,yes,,,128.5,0.01,0,0
+2527,yes,Stauseebogen,33,147.4,,0,0
+2528,yes,Stauseebogen,29,81.3,0.0,1,1
+2529,yes,,,36.2,0.0,0,0
+2530,yes,,,65.7,0.0,0,0
+2531,yes,,,123.7,0.0,0,0
+2532,yes,Wuppertaler Straße,597a,205.7,0.04,1,1
+2533,yes,Wuppertaler Straße,597b,121.4,0.0,0,0
+2534,yes,Zementstraße,25a,87.2,0.0,2,1
+2535,yes,Schliepersberg,97a,85.7,0.0,1,1
+2536,yes,Bovermanns Weg,6,98.8,0.0,0,0
+2537,yes,Johannes-Böttcher-Straße,3,274.0,0.0,0,0
+2538,yes,Johannes-Böttcher-Straße,2,273.6,0.02,0,0
+2539,yes,Johannes-Böttcher-Straße,1,275.9,0.0,0,0
+2540,yes,,,61.5,0.25,1,1
+2541,school,,,203.2,0.0,0,0
+2542,shed,Schwermannstraße,45,103.3,0.0,0,0
+2543,hospital,,,171.5,0.02,2,1
+2544,service,,,280.7,0.34,0,2
+2545,yes,,,356.7,0.0,0,0
+2546,garage,,,50.7,0.09,0,0
+2547,garages,,,277.8,0.1,1,1
+2548,garage,,,96.1,0.1,1,1
+2549,yes,,,86.1,0.0,0,0
+2550,yes,,,21.1,0.03,0,0
+2551,yes,,,73.0,0.0,1,1
+2552,yes,,,75.5,0.26,1,1
+2553,yes,,,136.5,0.05,4,3
+2554,garage,,,16.4,0.04,0,0
+2555,yes,,,106.5,0.0,0,0
+2556,carport,,,560.8,0.04,4,3
+2557,yes,Bahnstraße,7,262.4,0.05,1,1
+2558,garage,,,141.7,0.02,1,1
+2559,shed,,,49.5,0.16,0,1
+2560,retail,Bahnstraße,20-22,439.9,0.26,3,2
+2561,roof,,,150.6,0.12,0,1
+2562,garage,,,93.6,0.16,0,1
+2563,apartments,Dixbäume,57,244.9,0.0,1,1
+2564,yes,,,119.0,0.03,0,0
+2565,roof,,,6.8,0.0,0,0
+2566,garage,,,68.4,0.0,0,0
+2567,yes,,,61.4,0.06,0,0
+2568,yes,,,20.6,0.0,0,0
+2569,semidetached_house,Schliepersberg,6b,78.6,0.0,0,0
+2570,industrial,,,2504.1,0.06,1,1
+2571,roof,,,7.1,0.0,0,0
+2572,detached,Dilldorfer Straße,56,99.1,0.02,0,0
+2573,garage,,,14.4,0.0,0,0
+2574,garage,,,14.0,0.0,0,0
+2575,garage,,,14.8,0.0,0,0
+2576,garage,,,16.5,0.08,0,0
+2577,garages,,,35.8,0.0,0,0
+2578,apartments,Dilldorfer Straße,29,244.9,0.0,0,0
+2579,apartments,Dilldorfer Allee,19,400.4,0.05,0,0
+2580,apartments,Dilldorfer Allee,17,408.8,0.04,0,0
+2581,apartments,Dilldorfer Allee,15,384.2,0.02,0,0
+2582,yes,,,51.9,0.02,0,0
+2583,roof,,,7.3,0.0,4,3
+2584,roof,,,6.8,0.0,0,0
+2585,roof,,,4.3,0.0,0,0
+2586,roof,,,4.9,0.0,1,1
+2587,semidetached_house,Schliepersberg,90,75.3,0.0,0,0
+2588,garage,,,28.4,0.0,0,0
+2589,garage,,,17.8,0.0,0,0
+2590,garage,,,17.0,0.0,0,0
+2591,semidetached_house,Schliepersberg,88,68.6,0.0,0,0
+2592,semidetached_house,Schliepersberg,84,67.8,0.28,0,1
+2593,semidetached_house,Schliepersberg,80,67.1,0.12,0,1
+2594,yes,,,42.2,0.0,0,0
+2595,roof,,,70.4,0.06,0,0
+2596,roof,,,53.7,0.0,0,0
+2597,semidetached_house,Schliepersberg,92,69.5,0.0,0,0
+2598,semidetached_house,Schliepersberg,86,67.9,0.0,0,0
+2599,garage,,,19.0,0.0,0,0
+2600,garage,,,16.3,0.0,0,0
+2601,semidetached_house,Schliepersberg,82,71.6,0.24,0,1
+2602,semidetached_house,Schliepersberg,78,68.9,0.15,1,1
+2603,container,,,7.4,0.0,1,1
+2604,school,,,199.7,0.01,0,0
+2605,container,,,7.7,0.02,1,1
+2606,container,,,7.1,0.0,0,0
+2607,yes,,,145.1,0.03,0,0
+2608,garage,,,20.7,0.0,1,1
+2609,garage,,,18.1,0.0,1,1
+2610,garage,,,17.6,0.0,1,1
+2611,yes,,,37.8,0.0,0,0
+2612,yes,,,38.3,0.0,2,1
+2613,yes,,,55.7,0.0,0,0
+2614,yes,,,35.0,0.02,0,0
+2615,yes,,,59.0,0.0,0,0
+2616,yes,,,26.9,0.0,1,1
+2617,yes,,,196.0,0.12,0,1
+2618,yes,,,33.5,0.0,0,0
+2619,yes,,,38.4,0.0,0,0
+2620,yes,,,30.7,0.02,0,0
+2621,yes,,,32.6,0.0,0,0
+2622,garage,,,55.9,0.0,0,0
+2623,yes,,,36.4,0.0,0,0
+2624,garage,,,16.8,0.0,0,0
+2625,garage,,,16.8,0.0,0,0
+2626,garage,,,16.7,0.0,0,0
+2627,garage,,,16.7,0.0,0,0
+2628,garage,,,16.8,0.0,0,0
+2629,garage,,,16.7,0.0,0,0
+2630,garage,,,17.3,0.02,0,0
+2631,garage,,,17.1,0.04,0,0
+2632,yes,,,35.7,0.0,0,0
+2633,yes,,,119.0,0.0,0,0
+2634,yes,,,82.1,0.0,0,0
+2635,yes,,,64.6,0.0,0,0
+2636,yes,,,49.4,0.09,0,0
+2637,yes,,,24.6,0.0,0,0
+2638,yes,,,52.2,0.0,1,1
+2639,yes,,,34.1,0.0,0,0
+2640,yes,,,89.1,0.08,1,1
+2641,yes,,,58.6,0.0,0,0
+2642,yes,,,29.9,0.0,0,0
+2643,yes,,,36.5,0.0,0,0
+2644,yes,,,26.3,0.01,0,0
+2645,yes,,,40.7,0.06,0,0
+2646,yes,,,20.9,0.0,0,0
+2647,yes,,,18.4,0.0,0,0
+2648,yes,,,37.0,0.0,0,0
+2649,yes,,,55.5,0.0,0,0
+2650,yes,,,60.1,0.03,0,0
+2651,yes,,,142.0,0.0,0,0
+2652,yes,,,588.2,0.02,0,0
+2653,yes,,,33.8,0.01,0,0
+2654,yes,,,142.6,0.02,0,0
+2655,yes,,,270.8,0.03,0,0
+2656,garage,,,73.0,0.37,1,2
+2657,garage,,,72.8,0.32,0,2
+2658,garage,,,44.1,0.45,1,2
+2659,garage,,,74.2,0.73,1,3
+2660,yes,,,17.9,0.0,3,2
+2661,yes,,,16.7,0.0,0,0
+2662,yes,,,16.6,0.0,0,0
+2663,yes,,,27.4,0.0,0,0
+2664,yes,,,72.4,0.0,0,0
+2665,yes,,,83.2,0.0,2,1
+2666,yes,,,20.4,0.0,0,0
+2667,yes,,,23.6,0.07,0,0
+2668,yes,,,20.6,0.0,0,0
+2669,yes,,,20.4,0.0,0,0
+2670,yes,,,18.6,0.0,0,0
+2671,yes,,,39.6,0.01,2,1
+2672,yes,,,20.4,0.0,0,0
+2673,yes,,,22.8,0.0,0,0
+2674,yes,,,37.2,0.0,0,0
+2675,yes,,,49.2,0.0,1,1
+2676,yes,,,37.7,0.0,1,1
+2677,yes,,,18.9,0.0,0,0
+2678,yes,,,19.0,0.02,0,0
+2679,yes,,,35.2,0.0,0,0
+2680,yes,,,18.9,0.0,0,0
+2681,yes,,,62.3,0.0,0,0
+2682,yes,,,15.5,0.0,0,0
+2683,roof,,,473.1,0.18,0,1
+2684,roof,,,28.6,0.0,0,0
+2685,carport,,,52.4,0.0,0,0
+2686,yes,Heidbergweg,31,1395.5,0.08,1,1
+2687,yes,,,340.1,0.15,0,1
+2688,yes,,,30.3,0.1,0,0
+2689,garages,,,101.1,0.0,2,1
+2690,garages,,,101.5,0.06,1,1
+2691,garage,,,4.5,0.0,0,0
+2692,yes,,,33.4,0.19,1,1
+2693,yes,,,15.0,0.01,1,1
+2694,yes,,,19.6,0.12,0,1
+2695,yes,,,17.3,0.07,0,0
+2696,yes,,,15.1,0.11,0,1
+2697,yes,,,26.0,0.02,0,0
+2698,yes,,,27.6,0.02,0,0
+2699,yes,,,59.1,0.02,0,0
+2700,yes,,,83.3,0.02,0,0
+2701,yes,,,36.0,0.06,0,0
+2702,yes,,,154.6,0.01,0,0
+2703,warehouse,,,2667.0,0.01,1,1
+2704,roof,,,287.7,0.02,0,0
+2705,roof,,,277.7,0.0,0,0
+2706,roof,,,277.1,0.0,0,0
+2707,yes,,,75.3,0.0,0,0
+2708,yes,,,202.3,0.0,1,1
+2709,shed,,,564.4,0.01,0,0
+2710,apartments,Am Wieselbach,10,270.1,,0,0
+2711,yes,,,878.5,0.0,0,0
+2712,yes,,,22.5,0.41,3,2
+2713,yes,,,8.8,,0,0
+2714,yes,,,18.4,,0,0
+2715,yes,,,10.7,,0,0
+2716,yes,,,62.0,0.0,1,1
+2717,yes,,,35.5,0.0,3,2
+2718,apartments,,,604.7,0.05,0,0
+2719,garages,,,35.0,0.0,0,0
+2720,garages,,,35.5,0.0,0,0
+2721,garages,,,63.1,0.0,0,0
+2722,garages,,,107.1,0.0,2,1
+2723,garage,,,19.1,0.0,0,0
+2724,residential,Marienbergstraße,76,379.7,0.0,0,0
+2725,residential,Marienbergstraße,78,382.5,0.02,0,0
+2726,shed,,,34.2,0.0,0,0
+2727,roof,,,33.6,0.0,0,0
+2728,yes,,,58.3,0.01,2,1
+2729,garage,,,27.0,0.0,0,0
+2730,apartments,Niederweniger Straße,,357.0,0.06,3,2
+2731,yes,,,42.4,,0,0
+2732,yes,,,46.7,,0,0
+2733,yes,,,160.1,0.0,0,0
+2734,yes,,,181.2,0.0,1,1
+2735,garages,,,57.1,0.0,0,0
+2736,garages,,,35.2,0.0,1,1
+2737,garages,,,37.2,0.0,0,0
+2738,garages,,,71.8,0.0,0,0
+2739,yes,,,27.6,0.04,1,1
+2740,yes,,,14.6,0.0,0,0
+2741,yes,,,73.3,0.09,0,0
+2742,yes,,,37.9,0.0,0,0
+2743,yes,,,33.0,0.0,0,0
+2744,yes,,,19.9,0.01,0,0
+2745,yes,,,14.4,0.0,0,0
+2746,semidetached_house,Am Gerichtshaus,8a,85.1,,0,0
+2747,garage,,,40.5,0.0,0,0
+2748,garage,,,19.5,0.25,0,1
+2749,garage,,,12.2,0.0,0,0
+2750,garage,,,27.8,0.0,0,0
+2751,garage,,,17.3,,0,0
+2752,garage,,,16.2,,0,0
+2753,garage,,,18.1,0.0,0,0
+2754,semidetached_house,Schliepersberg,6a,88.3,0.0,0,0
+2755,garage,,,16.1,0.0,0,0
+2756,garage,,,20.3,0.0,0,0
+2757,yes,,,5.8,0.0,0,0
+2758,garage,,,44.0,0.0,0,0
+2759,garage,,,42.8,0.0,0,0
+2760,garage,,,35.4,0.01,0,0
+2761,garage,,,35.5,0.0,0,0
+2762,garage,,,35.2,0.01,0,0
+2763,garage,,,35.8,0.0,0,0
+2764,garage,,,36.1,0.0,0,0
+2765,garage,,,41.3,0.02,0,0
+2766,garage,,,102.7,0.04,2,1
+2767,shed,,,97.2,0.0,0,0
+2768,shed,,,25.3,0.0,0,0
+2769,shed,,,93.6,0.0,0,0
+2770,construction,,,90.8,0.04,5,3
+2771,kindergarten,,,641.2,0.05,0,0
+2772,garages,,,94.2,1.62,0,3
+2773,hut,,,14.2,1.38,0,3
+2774,garages,,,48.5,1.49,5,3
+2775,garages,,,45.9,1.35,5,3
+2776,shed,,,37.1,0.04,0,0
+2777,shed,,,44.7,0.01,0,0
+2778,garages,,,264.2,0.0,2,1
+2779,residential,,,33.9,0.0,0,0
+2780,yes,Breddebuschhang,10,254.6,0.0,0,0
+2781,garages,,,61.7,0.0,1,1
+2782,roof,,,58.2,0.0,0,0
+2783,garages,,,55.1,0.0,0,0
+2784,farm_auxiliary,,,51.9,0.0,0,0
+2785,yes,,,82.5,0.0,0,0
+2786,chapel,,,190.4,0.16,1,1
+2787,garage,,,16.5,0.0,0,0
+2788,garage,,,18.6,0.0,0,0
+2789,garage,,,14.8,0.0,0,0
+2790,garage,,,18.3,0.0,0,0
+2791,yes,An den Friedhöfen,18,78.7,0.0,0,0
+2792,yes,,,227.6,0.22,4,3
+2793,yes,,,93.7,0.0,0,0
+2794,yes,Möllneyer Ufer,28,84.7,0.03,0,0
+2795,yes,Möllneyer Ufer,26,91.1,0.04,0,0
+2796,yes,,,149.4,0.18,1,1
+2797,roof,,,9.7,0.0,0,0
+2798,yes,,,62.4,0.06,0,0
+2799,yes,Kupferdreher Straße,278,118.4,0.04,0,0
+2800,yes,,,30.5,0.0,0,0
+2801,yes,,,14.5,0.0,0,0
+2802,yes,Möllneyer Ufer,24,98.8,0.15,0,1
+2803,yes,Möllneyer Ufer,22,81.4,0.08,2,1
+2804,roof,,,8.9,0.02,0,0
+2805,detached,Dixbäume,65,100.8,0.0,0,0
+2806,detached,Dixbäume,69,150.2,0.0,0,0
+2807,roof,,,7.5,0.0,0,0
+2808,garage,,,17.5,0.0,0,0
+2809,yes,,,24.0,1.28,0,3
+2810,yes,,,13.4,0.59,0,3
+2811,yes,,,10.1,0.0,0,0
+2812,garage,,,31.1,0.0,0,0
+2813,garage,,,19.1,0.0,0,0
+2814,garage,,,36.6,0.0,0,0
+2815,yes,,,43.4,0.0,0,0
+2816,garage,,,21.4,0.0,0,0
+2817,garage,,,45.1,0.83,0,3
+2818,apartments,,,1061.6,0.0,2,1
+2819,garage,,,16.3,0.0,0,0
+2820,garage,,,16.2,0.0,0,0
+2821,garage,,,25.2,0.0,0,0
+2822,yes,,,46.9,0.0,0,0
+2823,residential,Bissenkamp,8,93.4,0.0,0,0
+2824,yes,Deilbachbrücke,1a,219.3,1.12,4,3
+2825,service,,,11.4,,0,0
+2826,garage,,,23.5,0.0,0,0
+2827,garages,,,36.9,0.0,0,0
+2828,garages,,,56.4,0.0,0,0
+2829,garage,,,31.7,0.0,0,0
+2830,garage,,,20.7,0.0,0,0
+2831,roof,,,13.0,0.0,0,0
+2832,garages,,,73.6,0.0,2,1
+2833,garage,,,24.5,0.0,0,0
+2834,yes,,,67.6,0.0,2,1
+2835,yes,,,4.7,0.0,2,1
+2836,garage,,,22.1,,0,0
+2837,garage,,,20.9,,0,0
+2838,yes,,,69.1,0.0,0,0
+2839,yes,,,48.2,0.07,2,1
+2840,garage,,,17.0,0.25,0,1
+2841,garage,,,13.2,0.0,0,0
+2842,yes,,,32.1,0.79,0,3
+2843,yes,,,14.9,0.0,0,0
+2844,yes,,,26.3,0.0,0,0
+2845,yes,,,130.3,0.0,0,0
+2846,garage,,,24.3,0.0,1,1
+2847,yes,,,65.9,1.32,0,3
+2848,garage,,,15.4,0.0,0,0
+2849,garage,,,30.7,0.0,0,0
+2850,yes,,,134.0,0.03,1,1
+2851,yes,,,70.5,0.0,3,2
+2852,yes,,,55.0,0.0,5,3
+2853,yes,,,41.7,0.32,5,3
+2854,yes,,,34.6,0.0,0,0
+2855,yes,,,97.7,0.0,0,0
+2856,garage,,,39.9,0.31,0,2
+2857,garage,,,33.1,0.02,0,0
+2858,garage,,,47.9,0.0,0,0
+2859,garage,,,18.0,0.0,0,0
+2860,garage,,,21.0,0.0,0,0
+2861,garage,,,18.4,0.0,0,0
+2862,garage,,,17.5,0.0,0,0
+2863,garage,,,17.9,0.0,2,1
+2864,garage,,,17.7,0.0,2,1
